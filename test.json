@@ -1,0 +1,5330 @@
+[
+  {
+    "image": "image/s0369_018.png",
+    "label": "seg/s0369_018.png"
+  },
+  {
+    "image": "image/s0157_030.png",
+    "label": "seg/s0157_030.png"
+  },
+  {
+    "image": "image/s0783_010.png",
+    "label": "seg/s0783_010.png"
+  },
+  {
+    "image": "image/s0571_014.png",
+    "label": "seg/s0571_014.png"
+  },
+  {
+    "image": "image/s0484_010.png",
+    "label": "seg/s0484_010.png"
+  },
+  {
+    "image": "image/s0669_019.png",
+    "label": "seg/s0669_019.png"
+  },
+  {
+    "image": "image/s0375_007.png",
+    "label": "seg/s0375_007.png"
+  },
+  {
+    "image": "image/s0157_022.png",
+    "label": "seg/s0157_022.png"
+  },
+  {
+    "image": "image/s0724_018.png",
+    "label": "seg/s0724_018.png"
+  },
+  {
+    "image": "image/s0514_014.png",
+    "label": "seg/s0514_014.png"
+  },
+  {
+    "image": "image/s1292_027.png",
+    "label": "seg/s1292_027.png"
+  },
+  {
+    "image": "image/s0160_010.png",
+    "label": "seg/s0160_010.png"
+  },
+  {
+    "image": "image/s1349_011.png",
+    "label": "seg/s1349_011.png"
+  },
+  {
+    "image": "image/s0024_026.png",
+    "label": "seg/s0024_026.png"
+  },
+  {
+    "image": "image/s0010_022.png",
+    "label": "seg/s0010_022.png"
+  },
+  {
+    "image": "image/s0334_014.png",
+    "label": "seg/s0334_014.png"
+  },
+  {
+    "image": "image/s0056_030.png",
+    "label": "seg/s0056_030.png"
+  },
+  {
+    "image": "image/s0034_014.png",
+    "label": "seg/s0034_014.png"
+  },
+  {
+    "image": "image/s0476_006.png",
+    "label": "seg/s0476_006.png"
+  },
+  {
+    "image": "image/s0561_024.png",
+    "label": "seg/s0561_024.png"
+  },
+  {
+    "image": "image/s0141_027.png",
+    "label": "seg/s0141_027.png"
+  },
+  {
+    "image": "image/s0059_011.png",
+    "label": "seg/s0059_011.png"
+  },
+  {
+    "image": "image/s0389_030.png",
+    "label": "seg/s0389_030.png"
+  },
+  {
+    "image": "image/s1397_013.png",
+    "label": "seg/s1397_013.png"
+  },
+  {
+    "image": "image/s0510_027.png",
+    "label": "seg/s0510_027.png"
+  },
+  {
+    "image": "image/s0675_002.png",
+    "label": "seg/s0675_002.png"
+  },
+  {
+    "image": "image/s0327_023.png",
+    "label": "seg/s0327_023.png"
+  },
+  {
+    "image": "image/s0503_028.png",
+    "label": "seg/s0503_028.png"
+  },
+  {
+    "image": "image/s0165_021.png",
+    "label": "seg/s0165_021.png"
+  },
+  {
+    "image": "image/s0476_001.png",
+    "label": "seg/s0476_001.png"
+  },
+  {
+    "image": "image/s0161_019.png",
+    "label": "seg/s0161_019.png"
+  },
+  {
+    "image": "image/s0128_016.png",
+    "label": "seg/s0128_016.png"
+  },
+  {
+    "image": "image/s1369_027.png",
+    "label": "seg/s1369_027.png"
+  },
+  {
+    "image": "image/s0429_013.png",
+    "label": "seg/s0429_013.png"
+  },
+  {
+    "image": "image/s0009_020.png",
+    "label": "seg/s0009_020.png"
+  },
+  {
+    "image": "image/s0460_019.png",
+    "label": "seg/s0460_019.png"
+  },
+  {
+    "image": "image/s0133_002.png",
+    "label": "seg/s0133_002.png"
+  },
+  {
+    "image": "image/s0370_003.png",
+    "label": "seg/s0370_003.png"
+  },
+  {
+    "image": "image/s0071_029.png",
+    "label": "seg/s0071_029.png"
+  },
+  {
+    "image": "image/s1142_014.png",
+    "label": "seg/s1142_014.png"
+  },
+  {
+    "image": "image/s0108_003.png",
+    "label": "seg/s0108_003.png"
+  },
+  {
+    "image": "image/s0028_010.png",
+    "label": "seg/s0028_010.png"
+  },
+  {
+    "image": "image/s0187_022.png",
+    "label": "seg/s0187_022.png"
+  },
+  {
+    "image": "image/s0487_015.png",
+    "label": "seg/s0487_015.png"
+  },
+  {
+    "image": "image/s0056_022.png",
+    "label": "seg/s0056_022.png"
+  },
+  {
+    "image": "image/s0507_012.png",
+    "label": "seg/s0507_012.png"
+  },
+  {
+    "image": "image/s0063_020.png",
+    "label": "seg/s0063_020.png"
+  },
+  {
+    "image": "image/s0187_004.png",
+    "label": "seg/s0187_004.png"
+  },
+  {
+    "image": "image/s0058_027.png",
+    "label": "seg/s0058_027.png"
+  },
+  {
+    "image": "image/s1208_031.png",
+    "label": "seg/s1208_031.png"
+  },
+  {
+    "image": "image/s0340_019.png",
+    "label": "seg/s0340_019.png"
+  },
+  {
+    "image": "image/s0371_021.png",
+    "label": "seg/s0371_021.png"
+  },
+  {
+    "image": "image/s0421_007.png",
+    "label": "seg/s0421_007.png"
+  },
+  {
+    "image": "image/s1397_010.png",
+    "label": "seg/s1397_010.png"
+  },
+  {
+    "image": "image/s0002_031.png",
+    "label": "seg/s0002_031.png"
+  },
+  {
+    "image": "image/s0429_023.png",
+    "label": "seg/s0429_023.png"
+  },
+  {
+    "image": "image/s0440_002.png",
+    "label": "seg/s0440_002.png"
+  },
+  {
+    "image": "image/s0291_005.png",
+    "label": "seg/s0291_005.png"
+  },
+  {
+    "image": "image/s0000_001.png",
+    "label": "seg/s0000_001.png"
+  },
+  {
+    "image": "image/s0003_012.png",
+    "label": "seg/s0003_012.png"
+  },
+  {
+    "image": "image/s0497_014.png",
+    "label": "seg/s0497_014.png"
+  },
+  {
+    "image": "image/s0361_024.png",
+    "label": "seg/s0361_024.png"
+  },
+  {
+    "image": "image/s0837_027.png",
+    "label": "seg/s0837_027.png"
+  },
+  {
+    "image": "image/s0804_025.png",
+    "label": "seg/s0804_025.png"
+  },
+  {
+    "image": "image/s0595_024.png",
+    "label": "seg/s0595_024.png"
+  },
+  {
+    "image": "image/s0307_017.png",
+    "label": "seg/s0307_017.png"
+  },
+  {
+    "image": "image/s0411_008.png",
+    "label": "seg/s0411_008.png"
+  },
+  {
+    "image": "image/s0447_009.png",
+    "label": "seg/s0447_009.png"
+  },
+  {
+    "image": "image/s0170_011.png",
+    "label": "seg/s0170_011.png"
+  },
+  {
+    "image": "image/s0411_013.png",
+    "label": "seg/s0411_013.png"
+  },
+  {
+    "image": "image/s0307_001.png",
+    "label": "seg/s0307_001.png"
+  },
+  {
+    "image": "image/s0212_009.png",
+    "label": "seg/s0212_009.png"
+  },
+  {
+    "image": "image/s0574_005.png",
+    "label": "seg/s0574_005.png"
+  },
+  {
+    "image": "image/s0292_002.png",
+    "label": "seg/s0292_002.png"
+  },
+  {
+    "image": "image/s0174_026.png",
+    "label": "seg/s0174_026.png"
+  },
+  {
+    "image": "image/s0431_017.png",
+    "label": "seg/s0431_017.png"
+  },
+  {
+    "image": "image/s0034_006.png",
+    "label": "seg/s0034_006.png"
+  },
+  {
+    "image": "image/s0605_009.png",
+    "label": "seg/s0605_009.png"
+  },
+  {
+    "image": "image/s0370_017.png",
+    "label": "seg/s0370_017.png"
+  },
+  {
+    "image": "image/s0516_015.png",
+    "label": "seg/s0516_015.png"
+  },
+  {
+    "image": "image/s0477_018.png",
+    "label": "seg/s0477_018.png"
+  },
+  {
+    "image": "image/s0376_020.png",
+    "label": "seg/s0376_020.png"
+  },
+  {
+    "image": "image/s0004_030.png",
+    "label": "seg/s0004_030.png"
+  },
+  {
+    "image": "image/s0420_012.png",
+    "label": "seg/s0420_012.png"
+  },
+  {
+    "image": "image/s0108_013.png",
+    "label": "seg/s0108_013.png"
+  },
+  {
+    "image": "image/s0507_016.png",
+    "label": "seg/s0507_016.png"
+  },
+  {
+    "image": "image/s0227_026.png",
+    "label": "seg/s0227_026.png"
+  },
+  {
+    "image": "image/s1013_031.png",
+    "label": "seg/s1013_031.png"
+  },
+  {
+    "image": "image/s1384_019.png",
+    "label": "seg/s1384_019.png"
+  },
+  {
+    "image": "image/s0446_024.png",
+    "label": "seg/s0446_024.png"
+  },
+  {
+    "image": "image/s0751_003.png",
+    "label": "seg/s0751_003.png"
+  },
+  {
+    "image": "image/s0707_012.png",
+    "label": "seg/s0707_012.png"
+  },
+  {
+    "image": "image/s0289_019.png",
+    "label": "seg/s0289_019.png"
+  },
+  {
+    "image": "image/s0006_010.png",
+    "label": "seg/s0006_010.png"
+  },
+  {
+    "image": "image/s0241_025.png",
+    "label": "seg/s0241_025.png"
+  },
+  {
+    "image": "image/s0367_007.png",
+    "label": "seg/s0367_007.png"
+  },
+  {
+    "image": "image/s1388_008.png",
+    "label": "seg/s1388_008.png"
+  },
+  {
+    "image": "image/s0103_021.png",
+    "label": "seg/s0103_021.png"
+  },
+  {
+    "image": "image/s0063_008.png",
+    "label": "seg/s0063_008.png"
+  },
+  {
+    "image": "image/s1004_007.png",
+    "label": "seg/s1004_007.png"
+  },
+  {
+    "image": "image/s0503_012.png",
+    "label": "seg/s0503_012.png"
+  },
+  {
+    "image": "image/s0420_013.png",
+    "label": "seg/s0420_013.png"
+  },
+  {
+    "image": "image/s0574_030.png",
+    "label": "seg/s0574_030.png"
+  },
+  {
+    "image": "image/s1388_023.png",
+    "label": "seg/s1388_023.png"
+  },
+  {
+    "image": "image/s0002_028.png",
+    "label": "seg/s0002_028.png"
+  },
+  {
+    "image": "image/s0421_014.png",
+    "label": "seg/s0421_014.png"
+  },
+  {
+    "image": "image/s1226_015.png",
+    "label": "seg/s1226_015.png"
+  },
+  {
+    "image": "image/s0334_026.png",
+    "label": "seg/s0334_026.png"
+  },
+  {
+    "image": "image/s1292_012.png",
+    "label": "seg/s1292_012.png"
+  },
+  {
+    "image": "image/s0070_014.png",
+    "label": "seg/s0070_014.png"
+  },
+  {
+    "image": "image/s0487_018.png",
+    "label": "seg/s0487_018.png"
+  },
+  {
+    "image": "image/s0167_003.png",
+    "label": "seg/s0167_003.png"
+  },
+  {
+    "image": "image/s0931_026.png",
+    "label": "seg/s0931_026.png"
+  },
+  {
+    "image": "image/s0633_001.png",
+    "label": "seg/s0633_001.png"
+  },
+  {
+    "image": "image/s0510_009.png",
+    "label": "seg/s0510_009.png"
+  },
+  {
+    "image": "image/s0389_017.png",
+    "label": "seg/s0389_017.png"
+  },
+  {
+    "image": "image/s0669_018.png",
+    "label": "seg/s0669_018.png"
+  },
+  {
+    "image": "image/s0587_028.png",
+    "label": "seg/s0587_028.png"
+  },
+  {
+    "image": "image/s0178_021.png",
+    "label": "seg/s0178_021.png"
+  },
+  {
+    "image": "image/s0289_020.png",
+    "label": "seg/s0289_020.png"
+  },
+  {
+    "image": "image/s0548_002.png",
+    "label": "seg/s0548_002.png"
+  },
+  {
+    "image": "image/s0707_031.png",
+    "label": "seg/s0707_031.png"
+  },
+  {
+    "image": "image/s0212_007.png",
+    "label": "seg/s0212_007.png"
+  },
+  {
+    "image": "image/s1208_029.png",
+    "label": "seg/s1208_029.png"
+  },
+  {
+    "image": "image/s0456_009.png",
+    "label": "seg/s0456_009.png"
+  },
+  {
+    "image": "image/s1397_026.png",
+    "label": "seg/s1397_026.png"
+  },
+  {
+    "image": "image/s0117_006.png",
+    "label": "seg/s0117_006.png"
+  },
+  {
+    "image": "image/s0212_001.png",
+    "label": "seg/s0212_001.png"
+  },
+  {
+    "image": "image/s0170_005.png",
+    "label": "seg/s0170_005.png"
+  },
+  {
+    "image": "image/s0895_006.png",
+    "label": "seg/s0895_006.png"
+  },
+  {
+    "image": "image/s0009_018.png",
+    "label": "seg/s0009_018.png"
+  },
+  {
+    "image": "image/s0161_025.png",
+    "label": "seg/s0161_025.png"
+  },
+  {
+    "image": "image/s0340_009.png",
+    "label": "seg/s0340_009.png"
+  },
+  {
+    "image": "image/s0120_022.png",
+    "label": "seg/s0120_022.png"
+  },
+  {
+    "image": "image/s0550_000.png",
+    "label": "seg/s0550_000.png"
+  },
+  {
+    "image": "image/s0804_002.png",
+    "label": "seg/s0804_002.png"
+  },
+  {
+    "image": "image/s0110_010.png",
+    "label": "seg/s0110_010.png"
+  },
+  {
+    "image": "image/s0484_000.png",
+    "label": "seg/s0484_000.png"
+  },
+  {
+    "image": "image/s0040_027.png",
+    "label": "seg/s0040_027.png"
+  },
+  {
+    "image": "image/s0410_015.png",
+    "label": "seg/s0410_015.png"
+  },
+  {
+    "image": "image/s0241_021.png",
+    "label": "seg/s0241_021.png"
+  },
+  {
+    "image": "image/s0321_013.png",
+    "label": "seg/s0321_013.png"
+  },
+  {
+    "image": "image/s0931_014.png",
+    "label": "seg/s0931_014.png"
+  },
+  {
+    "image": "image/s0551_022.png",
+    "label": "seg/s0551_022.png"
+  },
+  {
+    "image": "image/s0436_012.png",
+    "label": "seg/s0436_012.png"
+  },
+  {
+    "image": "image/s1357_001.png",
+    "label": "seg/s1357_001.png"
+  },
+  {
+    "image": "image/s0000_014.png",
+    "label": "seg/s0000_014.png"
+  },
+  {
+    "image": "image/s0171_017.png",
+    "label": "seg/s0171_017.png"
+  },
+  {
+    "image": "image/s0040_029.png",
+    "label": "seg/s0040_029.png"
+  },
+  {
+    "image": "image/s0408_005.png",
+    "label": "seg/s0408_005.png"
+  },
+  {
+    "image": "image/s0595_018.png",
+    "label": "seg/s0595_018.png"
+  },
+  {
+    "image": "image/s0128_007.png",
+    "label": "seg/s0128_007.png"
+  },
+  {
+    "image": "image/s0163_030.png",
+    "label": "seg/s0163_030.png"
+  },
+  {
+    "image": "image/s0474_005.png",
+    "label": "seg/s0474_005.png"
+  },
+  {
+    "image": "image/s0334_009.png",
+    "label": "seg/s0334_009.png"
+  },
+  {
+    "image": "image/s0160_004.png",
+    "label": "seg/s0160_004.png"
+  },
+  {
+    "image": "image/s0175_012.png",
+    "label": "seg/s0175_012.png"
+  },
+  {
+    "image": "image/s0103_006.png",
+    "label": "seg/s0103_006.png"
+  },
+  {
+    "image": "image/s0707_030.png",
+    "label": "seg/s0707_030.png"
+  },
+  {
+    "image": "image/s0574_029.png",
+    "label": "seg/s0574_029.png"
+  },
+  {
+    "image": "image/s1399_017.png",
+    "label": "seg/s1399_017.png"
+  },
+  {
+    "image": "image/s0498_007.png",
+    "label": "seg/s0498_007.png"
+  },
+  {
+    "image": "image/s0037_008.png",
+    "label": "seg/s0037_008.png"
+  },
+  {
+    "image": "image/s0477_022.png",
+    "label": "seg/s0477_022.png"
+  },
+  {
+    "image": "image/s0467_020.png",
+    "label": "seg/s0467_020.png"
+  },
+  {
+    "image": "image/s0393_006.png",
+    "label": "seg/s0393_006.png"
+  },
+  {
+    "image": "image/s0137_014.png",
+    "label": "seg/s0137_014.png"
+  },
+  {
+    "image": "image/s0472_007.png",
+    "label": "seg/s0472_007.png"
+  },
+  {
+    "image": "image/s0285_018.png",
+    "label": "seg/s0285_018.png"
+  },
+  {
+    "image": "image/s0067_001.png",
+    "label": "seg/s0067_001.png"
+  },
+  {
+    "image": "image/s0102_028.png",
+    "label": "seg/s0102_028.png"
+  },
+  {
+    "image": "image/s0724_003.png",
+    "label": "seg/s0724_003.png"
+  },
+  {
+    "image": "image/s0058_002.png",
+    "label": "seg/s0058_002.png"
+  },
+  {
+    "image": "image/s0408_019.png",
+    "label": "seg/s0408_019.png"
+  },
+  {
+    "image": "image/s0158_001.png",
+    "label": "seg/s0158_001.png"
+  },
+  {
+    "image": "image/s0058_018.png",
+    "label": "seg/s0058_018.png"
+  },
+  {
+    "image": "image/s0571_024.png",
+    "label": "seg/s0571_024.png"
+  },
+  {
+    "image": "image/s0003_004.png",
+    "label": "seg/s0003_004.png"
+  },
+  {
+    "image": "image/s0150_029.png",
+    "label": "seg/s0150_029.png"
+  },
+  {
+    "image": "image/s0110_022.png",
+    "label": "seg/s0110_022.png"
+  },
+  {
+    "image": "image/s1384_009.png",
+    "label": "seg/s1384_009.png"
+  },
+  {
+    "image": "image/s0669_008.png",
+    "label": "seg/s0669_008.png"
+  },
+  {
+    "image": "image/s0783_025.png",
+    "label": "seg/s0783_025.png"
+  },
+  {
+    "image": "image/s1062_020.png",
+    "label": "seg/s1062_020.png"
+  },
+  {
+    "image": "image/s0334_007.png",
+    "label": "seg/s0334_007.png"
+  },
+  {
+    "image": "image/s0521_016.png",
+    "label": "seg/s0521_016.png"
+  },
+  {
+    "image": "image/s0521_000.png",
+    "label": "seg/s0521_000.png"
+  },
+  {
+    "image": "image/s0791_002.png",
+    "label": "seg/s0791_002.png"
+  },
+  {
+    "image": "image/s0411_020.png",
+    "label": "seg/s0411_020.png"
+  },
+  {
+    "image": "image/s0369_025.png",
+    "label": "seg/s0369_025.png"
+  },
+  {
+    "image": "image/s0285_022.png",
+    "label": "seg/s0285_022.png"
+  },
+  {
+    "image": "image/s0375_024.png",
+    "label": "seg/s0375_024.png"
+  },
+  {
+    "image": "image/s0837_020.png",
+    "label": "seg/s0837_020.png"
+  },
+  {
+    "image": "image/s0483_027.png",
+    "label": "seg/s0483_027.png"
+  },
+  {
+    "image": "image/s0009_002.png",
+    "label": "seg/s0009_002.png"
+  },
+  {
+    "image": "image/s0321_014.png",
+    "label": "seg/s0321_014.png"
+  },
+  {
+    "image": "image/s0408_022.png",
+    "label": "seg/s0408_022.png"
+  },
+  {
+    "image": "image/s0009_019.png",
+    "label": "seg/s0009_019.png"
+  },
+  {
+    "image": "image/s0548_031.png",
+    "label": "seg/s0548_031.png"
+  },
+  {
+    "image": "image/s0521_005.png",
+    "label": "seg/s0521_005.png"
+  },
+  {
+    "image": "image/s0071_005.png",
+    "label": "seg/s0071_005.png"
+  },
+  {
+    "image": "image/s0171_027.png",
+    "label": "seg/s0171_027.png"
+  },
+  {
+    "image": "image/s1334_020.png",
+    "label": "seg/s1334_020.png"
+  },
+  {
+    "image": "image/s0291_030.png",
+    "label": "seg/s0291_030.png"
+  },
+  {
+    "image": "image/s0774_009.png",
+    "label": "seg/s0774_009.png"
+  },
+  {
+    "image": "image/s0371_027.png",
+    "label": "seg/s0371_027.png"
+  },
+  {
+    "image": "image/s0132_008.png",
+    "label": "seg/s0132_008.png"
+  },
+  {
+    "image": "image/s0456_013.png",
+    "label": "seg/s0456_013.png"
+  },
+  {
+    "image": "image/s0501_015.png",
+    "label": "seg/s0501_015.png"
+  },
+  {
+    "image": "image/s0000_025.png",
+    "label": "seg/s0000_025.png"
+  },
+  {
+    "image": "image/s0307_000.png",
+    "label": "seg/s0307_000.png"
+  },
+  {
+    "image": "image/s0603_015.png",
+    "label": "seg/s0603_015.png"
+  },
+  {
+    "image": "image/s1380_007.png",
+    "label": "seg/s1380_007.png"
+  },
+  {
+    "image": "image/s1397_025.png",
+    "label": "seg/s1397_025.png"
+  },
+  {
+    "image": "image/s0608_023.png",
+    "label": "seg/s0608_023.png"
+  },
+  {
+    "image": "image/s0321_000.png",
+    "label": "seg/s0321_000.png"
+  },
+  {
+    "image": "image/s0519_005.png",
+    "label": "seg/s0519_005.png"
+  },
+  {
+    "image": "image/s1349_014.png",
+    "label": "seg/s1349_014.png"
+  },
+  {
+    "image": "image/s0410_011.png",
+    "label": "seg/s0410_011.png"
+  },
+  {
+    "image": "image/s0187_019.png",
+    "label": "seg/s0187_019.png"
+  },
+  {
+    "image": "image/s0336_029.png",
+    "label": "seg/s0336_029.png"
+  },
+  {
+    "image": "image/s1004_004.png",
+    "label": "seg/s1004_004.png"
+  },
+  {
+    "image": "image/s0162_002.png",
+    "label": "seg/s0162_002.png"
+  },
+  {
+    "image": "image/s0285_025.png",
+    "label": "seg/s0285_025.png"
+  },
+  {
+    "image": "image/s0571_020.png",
+    "label": "seg/s0571_020.png"
+  },
+  {
+    "image": "image/s0117_023.png",
+    "label": "seg/s0117_023.png"
+  },
+  {
+    "image": "image/s0174_018.png",
+    "label": "seg/s0174_018.png"
+  },
+  {
+    "image": "image/s0402_029.png",
+    "label": "seg/s0402_029.png"
+  },
+  {
+    "image": "image/s0474_021.png",
+    "label": "seg/s0474_021.png"
+  },
+  {
+    "image": "image/s0151_006.png",
+    "label": "seg/s0151_006.png"
+  },
+  {
+    "image": "image/s0461_002.png",
+    "label": "seg/s0461_002.png"
+  },
+  {
+    "image": "image/s0724_031.png",
+    "label": "seg/s0724_031.png"
+  },
+  {
+    "image": "image/s0079_029.png",
+    "label": "seg/s0079_029.png"
+  },
+  {
+    "image": "image/s0044_017.png",
+    "label": "seg/s0044_017.png"
+  },
+  {
+    "image": "image/s0472_028.png",
+    "label": "seg/s0472_028.png"
+  },
+  {
+    "image": "image/s0336_020.png",
+    "label": "seg/s0336_020.png"
+  },
+  {
+    "image": "image/s0751_000.png",
+    "label": "seg/s0751_000.png"
+  },
+  {
+    "image": "image/s0160_017.png",
+    "label": "seg/s0160_017.png"
+  },
+  {
+    "image": "image/s0044_029.png",
+    "label": "seg/s0044_029.png"
+  },
+  {
+    "image": "image/s1384_010.png",
+    "label": "seg/s1384_010.png"
+  },
+  {
+    "image": "image/s0362_031.png",
+    "label": "seg/s0362_031.png"
+  },
+  {
+    "image": "image/s0123_004.png",
+    "label": "seg/s0123_004.png"
+  },
+  {
+    "image": "image/s0241_018.png",
+    "label": "seg/s0241_018.png"
+  },
+  {
+    "image": "image/s0150_012.png",
+    "label": "seg/s0150_012.png"
+  },
+  {
+    "image": "image/s1208_020.png",
+    "label": "seg/s1208_020.png"
+  },
+  {
+    "image": "image/s0546_024.png",
+    "label": "seg/s0546_024.png"
+  },
+  {
+    "image": "image/s0692_020.png",
+    "label": "seg/s0692_020.png"
+  },
+  {
+    "image": "image/s0307_024.png",
+    "label": "seg/s0307_024.png"
+  },
+  {
+    "image": "image/s0561_009.png",
+    "label": "seg/s0561_009.png"
+  },
+  {
+    "image": "image/s0340_013.png",
+    "label": "seg/s0340_013.png"
+  },
+  {
+    "image": "image/s0166_029.png",
+    "label": "seg/s0166_029.png"
+  },
+  {
+    "image": "image/s0131_010.png",
+    "label": "seg/s0131_010.png"
+  },
+  {
+    "image": "image/s0472_003.png",
+    "label": "seg/s0472_003.png"
+  },
+  {
+    "image": "image/s0429_028.png",
+    "label": "seg/s0429_028.png"
+  },
+  {
+    "image": "image/s0151_020.png",
+    "label": "seg/s0151_020.png"
+  },
+  {
+    "image": "image/s0740_028.png",
+    "label": "seg/s0740_028.png"
+  },
+  {
+    "image": "image/s0791_025.png",
+    "label": "seg/s0791_025.png"
+  },
+  {
+    "image": "image/s0369_007.png",
+    "label": "seg/s0369_007.png"
+  },
+  {
+    "image": "image/s0067_026.png",
+    "label": "seg/s0067_026.png"
+  },
+  {
+    "image": "image/s0476_019.png",
+    "label": "seg/s0476_019.png"
+  },
+  {
+    "image": "image/s0501_029.png",
+    "label": "seg/s0501_029.png"
+  },
+  {
+    "image": "image/s0574_008.png",
+    "label": "seg/s0574_008.png"
+  },
+  {
+    "image": "image/s0120_008.png",
+    "label": "seg/s0120_008.png"
+  },
+  {
+    "image": "image/s0199_022.png",
+    "label": "seg/s0199_022.png"
+  },
+  {
+    "image": "image/s0120_016.png",
+    "label": "seg/s0120_016.png"
+  },
+  {
+    "image": "image/s1380_009.png",
+    "label": "seg/s1380_009.png"
+  },
+  {
+    "image": "image/s0362_017.png",
+    "label": "seg/s0362_017.png"
+  },
+  {
+    "image": "image/s0040_026.png",
+    "label": "seg/s0040_026.png"
+  },
+  {
+    "image": "image/s0519_024.png",
+    "label": "seg/s0519_024.png"
+  },
+  {
+    "image": "image/s0260_015.png",
+    "label": "seg/s0260_015.png"
+  },
+  {
+    "image": "image/s0548_029.png",
+    "label": "seg/s0548_029.png"
+  },
+  {
+    "image": "image/s0102_007.png",
+    "label": "seg/s0102_007.png"
+  },
+  {
+    "image": "image/s0010_030.png",
+    "label": "seg/s0010_030.png"
+  },
+  {
+    "image": "image/s0468_023.png",
+    "label": "seg/s0468_023.png"
+  },
+  {
+    "image": "image/s0931_005.png",
+    "label": "seg/s0931_005.png"
+  },
+  {
+    "image": "image/s0151_010.png",
+    "label": "seg/s0151_010.png"
+  },
+  {
+    "image": "image/s1026_009.png",
+    "label": "seg/s1026_009.png"
+  },
+  {
+    "image": "image/s0501_016.png",
+    "label": "seg/s0501_016.png"
+  },
+  {
+    "image": "image/s0000_028.png",
+    "label": "seg/s0000_028.png"
+  },
+  {
+    "image": "image/s0370_021.png",
+    "label": "seg/s0370_021.png"
+  },
+  {
+    "image": "image/s0156_011.png",
+    "label": "seg/s0156_011.png"
+  },
+  {
+    "image": "image/s0071_009.png",
+    "label": "seg/s0071_009.png"
+  },
+  {
+    "image": "image/s0038_011.png",
+    "label": "seg/s0038_011.png"
+  },
+  {
+    "image": "image/s1094_030.png",
+    "label": "seg/s1094_030.png"
+  },
+  {
+    "image": "image/s0119_016.png",
+    "label": "seg/s0119_016.png"
+  },
+  {
+    "image": "image/s0498_024.png",
+    "label": "seg/s0498_024.png"
+  },
+  {
+    "image": "image/s0040_003.png",
+    "label": "seg/s0040_003.png"
+  },
+  {
+    "image": "image/s0289_014.png",
+    "label": "seg/s0289_014.png"
+  },
+  {
+    "image": "image/s0546_011.png",
+    "label": "seg/s0546_011.png"
+  },
+  {
+    "image": "image/s0124_015.png",
+    "label": "seg/s0124_015.png"
+  },
+  {
+    "image": "image/s0369_002.png",
+    "label": "seg/s0369_002.png"
+  },
+  {
+    "image": "image/s0003_001.png",
+    "label": "seg/s0003_001.png"
+  },
+  {
+    "image": "image/s0474_003.png",
+    "label": "seg/s0474_003.png"
+  },
+  {
+    "image": "image/s0507_009.png",
+    "label": "seg/s0507_009.png"
+  },
+  {
+    "image": "image/s0501_007.png",
+    "label": "seg/s0501_007.png"
+  },
+  {
+    "image": "image/s0046_010.png",
+    "label": "seg/s0046_010.png"
+  },
+  {
+    "image": "image/s0420_007.png",
+    "label": "seg/s0420_007.png"
+  },
+  {
+    "image": "image/s0162_017.png",
+    "label": "seg/s0162_017.png"
+  },
+  {
+    "image": "image/s0502_030.png",
+    "label": "seg/s0502_030.png"
+  },
+  {
+    "image": "image/s0692_024.png",
+    "label": "seg/s0692_024.png"
+  },
+  {
+    "image": "image/s0004_025.png",
+    "label": "seg/s0004_025.png"
+  },
+  {
+    "image": "image/s0167_029.png",
+    "label": "seg/s0167_029.png"
+  },
+  {
+    "image": "image/s1142_022.png",
+    "label": "seg/s1142_022.png"
+  },
+  {
+    "image": "image/s0487_013.png",
+    "label": "seg/s0487_013.png"
+  },
+  {
+    "image": "image/s0774_017.png",
+    "label": "seg/s0774_017.png"
+  },
+  {
+    "image": "image/s0447_003.png",
+    "label": "seg/s0447_003.png"
+  },
+  {
+    "image": "image/s1380_025.png",
+    "label": "seg/s1380_025.png"
+  },
+  {
+    "image": "image/s0321_003.png",
+    "label": "seg/s0321_003.png"
+  },
+  {
+    "image": "image/s0152_030.png",
+    "label": "seg/s0152_030.png"
+  },
+  {
+    "image": "image/s0067_010.png",
+    "label": "seg/s0067_010.png"
+  },
+  {
+    "image": "image/s0858_000.png",
+    "label": "seg/s0858_000.png"
+  },
+  {
+    "image": "image/s0003_010.png",
+    "label": "seg/s0003_010.png"
+  },
+  {
+    "image": "image/s0408_009.png",
+    "label": "seg/s0408_009.png"
+  },
+  {
+    "image": "image/s0408_024.png",
+    "label": "seg/s0408_024.png"
+  },
+  {
+    "image": "image/s1380_008.png",
+    "label": "seg/s1380_008.png"
+  },
+  {
+    "image": "image/s0021_004.png",
+    "label": "seg/s0021_004.png"
+  },
+  {
+    "image": "image/s0474_030.png",
+    "label": "seg/s0474_030.png"
+  },
+  {
+    "image": "image/s0516_014.png",
+    "label": "seg/s0516_014.png"
+  },
+  {
+    "image": "image/s0408_023.png",
+    "label": "seg/s0408_023.png"
+  },
+  {
+    "image": "image/s0536_003.png",
+    "label": "seg/s0536_003.png"
+  },
+  {
+    "image": "image/s0131_012.png",
+    "label": "seg/s0131_012.png"
+  },
+  {
+    "image": "image/s0160_009.png",
+    "label": "seg/s0160_009.png"
+  },
+  {
+    "image": "image/s0503_029.png",
+    "label": "seg/s0503_029.png"
+  },
+  {
+    "image": "image/s0124_000.png",
+    "label": "seg/s0124_000.png"
+  },
+  {
+    "image": "image/s0040_001.png",
+    "label": "seg/s0040_001.png"
+  },
+  {
+    "image": "image/s0371_028.png",
+    "label": "seg/s0371_028.png"
+  },
+  {
+    "image": "image/s0287_018.png",
+    "label": "seg/s0287_018.png"
+  },
+  {
+    "image": "image/s1013_002.png",
+    "label": "seg/s1013_002.png"
+  },
+  {
+    "image": "image/s0543_007.png",
+    "label": "seg/s0543_007.png"
+  },
+  {
+    "image": "image/s0774_026.png",
+    "label": "seg/s0774_026.png"
+  },
+  {
+    "image": "image/s0371_025.png",
+    "label": "seg/s0371_025.png"
+  },
+  {
+    "image": "image/s0376_023.png",
+    "label": "seg/s0376_023.png"
+  },
+  {
+    "image": "image/s1397_020.png",
+    "label": "seg/s1397_020.png"
+  },
+  {
+    "image": "image/s0477_011.png",
+    "label": "seg/s0477_011.png"
+  },
+  {
+    "image": "image/s0070_029.png",
+    "label": "seg/s0070_029.png"
+  },
+  {
+    "image": "image/s0484_021.png",
+    "label": "seg/s0484_021.png"
+  },
+  {
+    "image": "image/s0067_028.png",
+    "label": "seg/s0067_028.png"
+  },
+  {
+    "image": "image/s0241_030.png",
+    "label": "seg/s0241_030.png"
+  },
+  {
+    "image": "image/s0128_027.png",
+    "label": "seg/s0128_027.png"
+  },
+  {
+    "image": "image/s1359_003.png",
+    "label": "seg/s1359_003.png"
+  },
+  {
+    "image": "image/s0340_016.png",
+    "label": "seg/s0340_016.png"
+  },
+  {
+    "image": "image/s0858_014.png",
+    "label": "seg/s0858_014.png"
+  },
+  {
+    "image": "image/s1142_000.png",
+    "label": "seg/s1142_000.png"
+  },
+  {
+    "image": "image/s0608_011.png",
+    "label": "seg/s0608_011.png"
+  },
+  {
+    "image": "image/s0333_027.png",
+    "label": "seg/s0333_027.png"
+  },
+  {
+    "image": "image/s0046_028.png",
+    "label": "seg/s0046_028.png"
+  },
+  {
+    "image": "image/s0103_014.png",
+    "label": "seg/s0103_014.png"
+  },
+  {
+    "image": "image/s0128_025.png",
+    "label": "seg/s0128_025.png"
+  },
+  {
+    "image": "image/s1226_006.png",
+    "label": "seg/s1226_006.png"
+  },
+  {
+    "image": "image/s0587_027.png",
+    "label": "seg/s0587_027.png"
+  },
+  {
+    "image": "image/s0476_028.png",
+    "label": "seg/s0476_028.png"
+  },
+  {
+    "image": "image/s0057_019.png",
+    "label": "seg/s0057_019.png"
+  },
+  {
+    "image": "image/s0103_025.png",
+    "label": "seg/s0103_025.png"
+  },
+  {
+    "image": "image/s0423_024.png",
+    "label": "seg/s0423_024.png"
+  },
+  {
+    "image": "image/s0476_014.png",
+    "label": "seg/s0476_014.png"
+  },
+  {
+    "image": "image/s0487_027.png",
+    "label": "seg/s0487_027.png"
+  },
+  {
+    "image": "image/s0071_004.png",
+    "label": "seg/s0071_004.png"
+  },
+  {
+    "image": "image/s0123_027.png",
+    "label": "seg/s0123_027.png"
+  },
+  {
+    "image": "image/s0497_025.png",
+    "label": "seg/s0497_025.png"
+  },
+  {
+    "image": "image/s0347_022.png",
+    "label": "seg/s0347_022.png"
+  },
+  {
+    "image": "image/s0467_006.png",
+    "label": "seg/s0467_006.png"
+  },
+  {
+    "image": "image/s0669_024.png",
+    "label": "seg/s0669_024.png"
+  },
+  {
+    "image": "image/s0408_016.png",
+    "label": "seg/s0408_016.png"
+  },
+  {
+    "image": "image/s0139_018.png",
+    "label": "seg/s0139_018.png"
+  },
+  {
+    "image": "image/s0477_004.png",
+    "label": "seg/s0477_004.png"
+  },
+  {
+    "image": "image/s0157_013.png",
+    "label": "seg/s0157_013.png"
+  },
+  {
+    "image": "image/s0037_001.png",
+    "label": "seg/s0037_001.png"
+  },
+  {
+    "image": "image/s0783_018.png",
+    "label": "seg/s0783_018.png"
+  },
+  {
+    "image": "image/s0175_017.png",
+    "label": "seg/s0175_017.png"
+  },
+  {
+    "image": "image/s0152_010.png",
+    "label": "seg/s0152_010.png"
+  },
+  {
+    "image": "image/s0548_010.png",
+    "label": "seg/s0548_010.png"
+  },
+  {
+    "image": "image/s0086_009.png",
+    "label": "seg/s0086_009.png"
+  },
+  {
+    "image": "image/s0483_003.png",
+    "label": "seg/s0483_003.png"
+  },
+  {
+    "image": "image/s0079_014.png",
+    "label": "seg/s0079_014.png"
+  },
+  {
+    "image": "image/s0774_019.png",
+    "label": "seg/s0774_019.png"
+  },
+  {
+    "image": "image/s0595_005.png",
+    "label": "seg/s0595_005.png"
+  },
+  {
+    "image": "image/s0070_028.png",
+    "label": "seg/s0070_028.png"
+  },
+  {
+    "image": "image/s0370_016.png",
+    "label": "seg/s0370_016.png"
+  },
+  {
+    "image": "image/s0783_021.png",
+    "label": "seg/s0783_021.png"
+  },
+  {
+    "image": "image/s0102_021.png",
+    "label": "seg/s0102_021.png"
+  },
+  {
+    "image": "image/s0408_013.png",
+    "label": "seg/s0408_013.png"
+  },
+  {
+    "image": "image/s0603_008.png",
+    "label": "seg/s0603_008.png"
+  },
+  {
+    "image": "image/s0707_014.png",
+    "label": "seg/s0707_014.png"
+  },
+  {
+    "image": "image/s0166_009.png",
+    "label": "seg/s0166_009.png"
+  },
+  {
+    "image": "image/s0574_023.png",
+    "label": "seg/s0574_023.png"
+  },
+  {
+    "image": "image/s0507_022.png",
+    "label": "seg/s0507_022.png"
+  },
+  {
+    "image": "image/s0502_021.png",
+    "label": "seg/s0502_021.png"
+  },
+  {
+    "image": "image/s0117_001.png",
+    "label": "seg/s0117_001.png"
+  },
+  {
+    "image": "image/s1357_009.png",
+    "label": "seg/s1357_009.png"
+  },
+  {
+    "image": "image/s0170_027.png",
+    "label": "seg/s0170_027.png"
+  },
+  {
+    "image": "image/s0046_016.png",
+    "label": "seg/s0046_016.png"
+  },
+  {
+    "image": "image/s0212_027.png",
+    "label": "seg/s0212_027.png"
+  },
+  {
+    "image": "image/s0131_000.png",
+    "label": "seg/s0131_000.png"
+  },
+  {
+    "image": "image/s0123_019.png",
+    "label": "seg/s0123_019.png"
+  },
+  {
+    "image": "image/s0931_031.png",
+    "label": "seg/s0931_031.png"
+  },
+  {
+    "image": "image/s0137_010.png",
+    "label": "seg/s0137_010.png"
+  },
+  {
+    "image": "image/s0377_005.png",
+    "label": "seg/s0377_005.png"
+  },
+  {
+    "image": "image/s0024_019.png",
+    "label": "seg/s0024_019.png"
+  },
+  {
+    "image": "image/s0021_019.png",
+    "label": "seg/s0021_019.png"
+  },
+  {
+    "image": "image/s0141_000.png",
+    "label": "seg/s0141_000.png"
+  },
+  {
+    "image": "image/s0536_018.png",
+    "label": "seg/s0536_018.png"
+  },
+  {
+    "image": "image/s0346_014.png",
+    "label": "seg/s0346_014.png"
+  },
+  {
+    "image": "image/s0156_028.png",
+    "label": "seg/s0156_028.png"
+  },
+  {
+    "image": "image/s1062_006.png",
+    "label": "seg/s1062_006.png"
+  },
+  {
+    "image": "image/s0389_026.png",
+    "label": "seg/s0389_026.png"
+  },
+  {
+    "image": "image/s1349_006.png",
+    "label": "seg/s1349_006.png"
+  },
+  {
+    "image": "image/s0436_025.png",
+    "label": "seg/s0436_025.png"
+  },
+  {
+    "image": "image/s0605_023.png",
+    "label": "seg/s0605_023.png"
+  },
+  {
+    "image": "image/s0697_023.png",
+    "label": "seg/s0697_023.png"
+  },
+  {
+    "image": "image/s0250_011.png",
+    "label": "seg/s0250_011.png"
+  },
+  {
+    "image": "image/s1077_005.png",
+    "label": "seg/s1077_005.png"
+  },
+  {
+    "image": "image/s0510_010.png",
+    "label": "seg/s0510_010.png"
+  },
+  {
+    "image": "image/s0321_024.png",
+    "label": "seg/s0321_024.png"
+  },
+  {
+    "image": "image/s0478_018.png",
+    "label": "seg/s0478_018.png"
+  },
+  {
+    "image": "image/s1388_022.png",
+    "label": "seg/s1388_022.png"
+  },
+  {
+    "image": "image/s0321_029.png",
+    "label": "seg/s0321_029.png"
+  },
+  {
+    "image": "image/s0502_027.png",
+    "label": "seg/s0502_027.png"
+  },
+  {
+    "image": "image/s0321_020.png",
+    "label": "seg/s0321_020.png"
+  },
+  {
+    "image": "image/s1062_000.png",
+    "label": "seg/s1062_000.png"
+  },
+  {
+    "image": "image/s0516_011.png",
+    "label": "seg/s0516_011.png"
+  },
+  {
+    "image": "image/s0501_002.png",
+    "label": "seg/s0501_002.png"
+  },
+  {
+    "image": "image/s0446_008.png",
+    "label": "seg/s0446_008.png"
+  },
+  {
+    "image": "image/s0446_000.png",
+    "label": "seg/s0446_000.png"
+  },
+  {
+    "image": "image/s0334_010.png",
+    "label": "seg/s0334_010.png"
+  },
+  {
+    "image": "image/s0166_004.png",
+    "label": "seg/s0166_004.png"
+  },
+  {
+    "image": "image/s0089_023.png",
+    "label": "seg/s0089_023.png"
+  },
+  {
+    "image": "image/s0146_005.png",
+    "label": "seg/s0146_005.png"
+  },
+  {
+    "image": "image/s0146_023.png",
+    "label": "seg/s0146_023.png"
+  },
+  {
+    "image": "image/s0175_015.png",
+    "label": "seg/s0175_015.png"
+  },
+  {
+    "image": "image/s0336_002.png",
+    "label": "seg/s0336_002.png"
+  },
+  {
+    "image": "image/s0791_023.png",
+    "label": "seg/s0791_023.png"
+  },
+  {
+    "image": "image/s0156_026.png",
+    "label": "seg/s0156_026.png"
+  },
+  {
+    "image": "image/s0340_028.png",
+    "label": "seg/s0340_028.png"
+  },
+  {
+    "image": "image/s0740_018.png",
+    "label": "seg/s0740_018.png"
+  },
+  {
+    "image": "image/s0050_016.png",
+    "label": "seg/s0050_016.png"
+  },
+  {
+    "image": "image/s0287_008.png",
+    "label": "seg/s0287_008.png"
+  },
+  {
+    "image": "image/s0402_028.png",
+    "label": "seg/s0402_028.png"
+  },
+  {
+    "image": "image/s1349_029.png",
+    "label": "seg/s1349_029.png"
+  },
+  {
+    "image": "image/s0079_025.png",
+    "label": "seg/s0079_025.png"
+  },
+  {
+    "image": "image/s0467_011.png",
+    "label": "seg/s0467_011.png"
+  },
+  {
+    "image": "image/s0151_012.png",
+    "label": "seg/s0151_012.png"
+  },
+  {
+    "image": "image/s0840_016.png",
+    "label": "seg/s0840_016.png"
+  },
+  {
+    "image": "image/s0521_015.png",
+    "label": "seg/s0521_015.png"
+  },
+  {
+    "image": "image/s0376_026.png",
+    "label": "seg/s0376_026.png"
+  },
+  {
+    "image": "image/s0521_008.png",
+    "label": "seg/s0521_008.png"
+  },
+  {
+    "image": "image/s0002_026.png",
+    "label": "seg/s0002_026.png"
+  },
+  {
+    "image": "image/s0080_015.png",
+    "label": "seg/s0080_015.png"
+  },
+  {
+    "image": "image/s0043_014.png",
+    "label": "seg/s0043_014.png"
+  },
+  {
+    "image": "image/s0119_018.png",
+    "label": "seg/s0119_018.png"
+  },
+  {
+    "image": "image/s0519_029.png",
+    "label": "seg/s0519_029.png"
+  },
+  {
+    "image": "image/s0548_011.png",
+    "label": "seg/s0548_011.png"
+  },
+  {
+    "image": "image/s0536_026.png",
+    "label": "seg/s0536_026.png"
+  },
+  {
+    "image": "image/s0436_027.png",
+    "label": "seg/s0436_027.png"
+  },
+  {
+    "image": "image/s1226_000.png",
+    "label": "seg/s1226_000.png"
+  },
+  {
+    "image": "image/s0043_017.png",
+    "label": "seg/s0043_017.png"
+  },
+  {
+    "image": "image/s0376_008.png",
+    "label": "seg/s0376_008.png"
+  },
+  {
+    "image": "image/s0367_018.png",
+    "label": "seg/s0367_018.png"
+  },
+  {
+    "image": "image/s1077_023.png",
+    "label": "seg/s1077_023.png"
+  },
+  {
+    "image": "image/s0692_017.png",
+    "label": "seg/s0692_017.png"
+  },
+  {
+    "image": "image/s0153_020.png",
+    "label": "seg/s0153_020.png"
+  },
+  {
+    "image": "image/s0250_025.png",
+    "label": "seg/s0250_025.png"
+  },
+  {
+    "image": "image/s0327_014.png",
+    "label": "seg/s0327_014.png"
+  },
+  {
+    "image": "image/s0187_008.png",
+    "label": "seg/s0187_008.png"
+  },
+  {
+    "image": "image/s0151_025.png",
+    "label": "seg/s0151_025.png"
+  },
+  {
+    "image": "image/s0128_006.png",
+    "label": "seg/s0128_006.png"
+  },
+  {
+    "image": "image/s0707_002.png",
+    "label": "seg/s0707_002.png"
+  },
+  {
+    "image": "image/s0692_002.png",
+    "label": "seg/s0692_002.png"
+  },
+  {
+    "image": "image/s0423_023.png",
+    "label": "seg/s0423_023.png"
+  },
+  {
+    "image": "image/s0361_019.png",
+    "label": "seg/s0361_019.png"
+  },
+  {
+    "image": "image/s0402_010.png",
+    "label": "seg/s0402_010.png"
+  },
+  {
+    "image": "image/s1292_015.png",
+    "label": "seg/s1292_015.png"
+  },
+  {
+    "image": "image/s0166_026.png",
+    "label": "seg/s0166_026.png"
+  },
+  {
+    "image": "image/s0285_010.png",
+    "label": "seg/s0285_010.png"
+  },
+  {
+    "image": "image/s1208_003.png",
+    "label": "seg/s1208_003.png"
+  },
+  {
+    "image": "image/s0137_000.png",
+    "label": "seg/s0137_000.png"
+  },
+  {
+    "image": "image/s0227_006.png",
+    "label": "seg/s0227_006.png"
+  },
+  {
+    "image": "image/s0603_024.png",
+    "label": "seg/s0603_024.png"
+  },
+  {
+    "image": "image/s0476_024.png",
+    "label": "seg/s0476_024.png"
+  },
+  {
+    "image": "image/s0059_013.png",
+    "label": "seg/s0059_013.png"
+  },
+  {
+    "image": "image/s0608_026.png",
+    "label": "seg/s0608_026.png"
+  },
+  {
+    "image": "image/s0376_030.png",
+    "label": "seg/s0376_030.png"
+  },
+  {
+    "image": "image/s0724_017.png",
+    "label": "seg/s0724_017.png"
+  },
+  {
+    "image": "image/s0740_029.png",
+    "label": "seg/s0740_029.png"
+  },
+  {
+    "image": "image/s0190_030.png",
+    "label": "seg/s0190_030.png"
+  },
+  {
+    "image": "image/s0376_025.png",
+    "label": "seg/s0376_025.png"
+  },
+  {
+    "image": "image/s0119_025.png",
+    "label": "seg/s0119_025.png"
+  },
+  {
+    "image": "image/s1349_013.png",
+    "label": "seg/s1349_013.png"
+  },
+  {
+    "image": "image/s1226_016.png",
+    "label": "seg/s1226_016.png"
+  },
+  {
+    "image": "image/s0436_021.png",
+    "label": "seg/s0436_021.png"
+  },
+  {
+    "image": "image/s0199_015.png",
+    "label": "seg/s0199_015.png"
+  },
+  {
+    "image": "image/s0456_020.png",
+    "label": "seg/s0456_020.png"
+  },
+  {
+    "image": "image/s0574_031.png",
+    "label": "seg/s0574_031.png"
+  },
+  {
+    "image": "image/s0029_027.png",
+    "label": "seg/s0029_027.png"
+  },
+  {
+    "image": "image/s0352_021.png",
+    "label": "seg/s0352_021.png"
+  },
+  {
+    "image": "image/s0551_008.png",
+    "label": "seg/s0551_008.png"
+  },
+  {
+    "image": "image/s0697_008.png",
+    "label": "seg/s0697_008.png"
+  },
+  {
+    "image": "image/s0484_007.png",
+    "label": "seg/s0484_007.png"
+  },
+  {
+    "image": "image/s1349_003.png",
+    "label": "seg/s1349_003.png"
+  },
+  {
+    "image": "image/s0474_023.png",
+    "label": "seg/s0474_023.png"
+  },
+  {
+    "image": "image/s0175_023.png",
+    "label": "seg/s0175_023.png"
+  },
+  {
+    "image": "image/s1094_031.png",
+    "label": "seg/s1094_031.png"
+  },
+  {
+    "image": "image/s0561_018.png",
+    "label": "seg/s0561_018.png"
+  },
+  {
+    "image": "image/s1349_004.png",
+    "label": "seg/s1349_004.png"
+  },
+  {
+    "image": "image/s0447_018.png",
+    "label": "seg/s0447_018.png"
+  },
+  {
+    "image": "image/s0595_000.png",
+    "label": "seg/s0595_000.png"
+  },
+  {
+    "image": "image/s0370_015.png",
+    "label": "seg/s0370_015.png"
+  },
+  {
+    "image": "image/s1380_000.png",
+    "label": "seg/s1380_000.png"
+  },
+  {
+    "image": "image/s0178_020.png",
+    "label": "seg/s0178_020.png"
+  },
+  {
+    "image": "image/s0361_026.png",
+    "label": "seg/s0361_026.png"
+  },
+  {
+    "image": "image/s1026_018.png",
+    "label": "seg/s1026_018.png"
+  },
+  {
+    "image": "image/s0161_013.png",
+    "label": "seg/s0161_013.png"
+  },
+  {
+    "image": "image/s0124_020.png",
+    "label": "seg/s0124_020.png"
+  },
+  {
+    "image": "image/s0108_030.png",
+    "label": "seg/s0108_030.png"
+  },
+  {
+    "image": "image/s0783_026.png",
+    "label": "seg/s0783_026.png"
+  },
+  {
+    "image": "image/s0166_008.png",
+    "label": "seg/s0166_008.png"
+  },
+  {
+    "image": "image/s0227_000.png",
+    "label": "seg/s0227_000.png"
+  },
+  {
+    "image": "image/s0307_020.png",
+    "label": "seg/s0307_020.png"
+  },
+  {
+    "image": "image/s1349_020.png",
+    "label": "seg/s1349_020.png"
+  },
+  {
+    "image": "image/s0484_019.png",
+    "label": "seg/s0484_019.png"
+  },
+  {
+    "image": "image/s0037_007.png",
+    "label": "seg/s0037_007.png"
+  },
+  {
+    "image": "image/s0460_024.png",
+    "label": "seg/s0460_024.png"
+  },
+  {
+    "image": "image/s0472_000.png",
+    "label": "seg/s0472_000.png"
+  },
+  {
+    "image": "image/s1094_010.png",
+    "label": "seg/s1094_010.png"
+  },
+  {
+    "image": "image/s0361_027.png",
+    "label": "seg/s0361_027.png"
+  },
+  {
+    "image": "image/s0440_000.png",
+    "label": "seg/s0440_000.png"
+  },
+  {
+    "image": "image/s0692_021.png",
+    "label": "seg/s0692_021.png"
+  },
+  {
+    "image": "image/s0503_014.png",
+    "label": "seg/s0503_014.png"
+  },
+  {
+    "image": "image/s0174_012.png",
+    "label": "seg/s0174_012.png"
+  },
+  {
+    "image": "image/s0040_012.png",
+    "label": "seg/s0040_012.png"
+  },
+  {
+    "image": "image/s0128_014.png",
+    "label": "seg/s0128_014.png"
+  },
+  {
+    "image": "image/s0178_001.png",
+    "label": "seg/s0178_001.png"
+  },
+  {
+    "image": "image/s0497_026.png",
+    "label": "seg/s0497_026.png"
+  },
+  {
+    "image": "image/s0133_003.png",
+    "label": "seg/s0133_003.png"
+  },
+  {
+    "image": "image/s0080_017.png",
+    "label": "seg/s0080_017.png"
+  },
+  {
+    "image": "image/s0516_023.png",
+    "label": "seg/s0516_023.png"
+  },
+  {
+    "image": "image/s0119_012.png",
+    "label": "seg/s0119_012.png"
+  },
+  {
+    "image": "image/s0044_012.png",
+    "label": "seg/s0044_012.png"
+  },
+  {
+    "image": "image/s0080_003.png",
+    "label": "seg/s0080_003.png"
+  },
+  {
+    "image": "image/s0108_018.png",
+    "label": "seg/s0108_018.png"
+  },
+  {
+    "image": "image/s0151_008.png",
+    "label": "seg/s0151_008.png"
+  },
+  {
+    "image": "image/s0571_012.png",
+    "label": "seg/s0571_012.png"
+  },
+  {
+    "image": "image/s0059_008.png",
+    "label": "seg/s0059_008.png"
+  },
+  {
+    "image": "image/s0502_019.png",
+    "label": "seg/s0502_019.png"
+  },
+  {
+    "image": "image/s1378_015.png",
+    "label": "seg/s1378_015.png"
+  },
+  {
+    "image": "image/s0056_010.png",
+    "label": "seg/s0056_010.png"
+  },
+  {
+    "image": "image/s0250_019.png",
+    "label": "seg/s0250_019.png"
+  },
+  {
+    "image": "image/s0010_006.png",
+    "label": "seg/s0010_006.png"
+  },
+  {
+    "image": "image/s0587_020.png",
+    "label": "seg/s0587_020.png"
+  },
+  {
+    "image": "image/s0006_013.png",
+    "label": "seg/s0006_013.png"
+  },
+  {
+    "image": "image/s0003_020.png",
+    "label": "seg/s0003_020.png"
+  },
+  {
+    "image": "image/s1384_002.png",
+    "label": "seg/s1384_002.png"
+  },
+  {
+    "image": "image/s0548_001.png",
+    "label": "seg/s0548_001.png"
+  },
+  {
+    "image": "image/s0004_012.png",
+    "label": "seg/s0004_012.png"
+  },
+  {
+    "image": "image/s0063_018.png",
+    "label": "seg/s0063_018.png"
+  },
+  {
+    "image": "image/s1334_019.png",
+    "label": "seg/s1334_019.png"
+  },
+  {
+    "image": "image/s1357_025.png",
+    "label": "seg/s1357_025.png"
+  },
+  {
+    "image": "image/s0603_004.png",
+    "label": "seg/s0603_004.png"
+  },
+  {
+    "image": "image/s1359_017.png",
+    "label": "seg/s1359_017.png"
+  },
+  {
+    "image": "image/s1399_018.png",
+    "label": "seg/s1399_018.png"
+  },
+  {
+    "image": "image/s0436_004.png",
+    "label": "seg/s0436_004.png"
+  },
+  {
+    "image": "image/s0059_020.png",
+    "label": "seg/s0059_020.png"
+  },
+  {
+    "image": "image/s0410_027.png",
+    "label": "seg/s0410_027.png"
+  },
+  {
+    "image": "image/s0774_003.png",
+    "label": "seg/s0774_003.png"
+  },
+  {
+    "image": "image/s0133_000.png",
+    "label": "seg/s0133_000.png"
+  },
+  {
+    "image": "image/s0120_000.png",
+    "label": "seg/s0120_000.png"
+  },
+  {
+    "image": "image/s1357_016.png",
+    "label": "seg/s1357_016.png"
+  },
+  {
+    "image": "image/s0070_006.png",
+    "label": "seg/s0070_006.png"
+  },
+  {
+    "image": "image/s0510_028.png",
+    "label": "seg/s0510_028.png"
+  },
+  {
+    "image": "image/s0436_003.png",
+    "label": "seg/s0436_003.png"
+  },
+  {
+    "image": "image/s1369_013.png",
+    "label": "seg/s1369_013.png"
+  },
+  {
+    "image": "image/s0362_013.png",
+    "label": "seg/s0362_013.png"
+  },
+  {
+    "image": "image/s0153_026.png",
+    "label": "seg/s0153_026.png"
+  },
+  {
+    "image": "image/s0067_004.png",
+    "label": "seg/s0067_004.png"
+  },
+  {
+    "image": "image/s1334_030.png",
+    "label": "seg/s1334_030.png"
+  },
+  {
+    "image": "image/s0199_029.png",
+    "label": "seg/s0199_029.png"
+  },
+  {
+    "image": "image/s0389_000.png",
+    "label": "seg/s0389_000.png"
+  },
+  {
+    "image": "image/s0156_027.png",
+    "label": "seg/s0156_027.png"
+  },
+  {
+    "image": "image/s0131_001.png",
+    "label": "seg/s0131_001.png"
+  },
+  {
+    "image": "image/s0429_022.png",
+    "label": "seg/s0429_022.png"
+  },
+  {
+    "image": "image/s0004_023.png",
+    "label": "seg/s0004_023.png"
+  },
+  {
+    "image": "image/s0507_029.png",
+    "label": "seg/s0507_029.png"
+  },
+  {
+    "image": "image/s0080_014.png",
+    "label": "seg/s0080_014.png"
+  },
+  {
+    "image": "image/s1094_028.png",
+    "label": "seg/s1094_028.png"
+  },
+  {
+    "image": "image/s0067_012.png",
+    "label": "seg/s0067_012.png"
+  },
+  {
+    "image": "image/s0478_024.png",
+    "label": "seg/s0478_024.png"
+  },
+  {
+    "image": "image/s0483_029.png",
+    "label": "seg/s0483_029.png"
+  },
+  {
+    "image": "image/s0549_008.png",
+    "label": "seg/s0549_008.png"
+  },
+  {
+    "image": "image/s0132_022.png",
+    "label": "seg/s0132_022.png"
+  },
+  {
+    "image": "image/s0751_025.png",
+    "label": "seg/s0751_025.png"
+  },
+  {
+    "image": "image/s0627_007.png",
+    "label": "seg/s0627_007.png"
+  },
+  {
+    "image": "image/s0478_023.png",
+    "label": "seg/s0478_023.png"
+  },
+  {
+    "image": "image/s0086_028.png",
+    "label": "seg/s0086_028.png"
+  },
+  {
+    "image": "image/s0476_022.png",
+    "label": "seg/s0476_022.png"
+  },
+  {
+    "image": "image/s0605_028.png",
+    "label": "seg/s0605_028.png"
+  },
+  {
+    "image": "image/s0346_019.png",
+    "label": "seg/s0346_019.png"
+  },
+  {
+    "image": "image/s0103_015.png",
+    "label": "seg/s0103_015.png"
+  },
+  {
+    "image": "image/s0605_014.png",
+    "label": "seg/s0605_014.png"
+  },
+  {
+    "image": "image/s0347_028.png",
+    "label": "seg/s0347_028.png"
+  },
+  {
+    "image": "image/s0141_017.png",
+    "label": "seg/s0141_017.png"
+  },
+  {
+    "image": "image/s0001_011.png",
+    "label": "seg/s0001_011.png"
+  },
+  {
+    "image": "image/s0931_013.png",
+    "label": "seg/s0931_013.png"
+  },
+  {
+    "image": "image/s0153_001.png",
+    "label": "seg/s0153_001.png"
+  },
+  {
+    "image": "image/s0057_014.png",
+    "label": "seg/s0057_014.png"
+  },
+  {
+    "image": "image/s0157_021.png",
+    "label": "seg/s0157_021.png"
+  },
+  {
+    "image": "image/s0402_017.png",
+    "label": "seg/s0402_017.png"
+  },
+  {
+    "image": "image/s0587_029.png",
+    "label": "seg/s0587_029.png"
+  },
+  {
+    "image": "image/s0483_004.png",
+    "label": "seg/s0483_004.png"
+  },
+  {
+    "image": "image/s0436_002.png",
+    "label": "seg/s0436_002.png"
+  },
+  {
+    "image": "image/s0389_002.png",
+    "label": "seg/s0389_002.png"
+  },
+  {
+    "image": "image/s0507_027.png",
+    "label": "seg/s0507_027.png"
+  },
+  {
+    "image": "image/s0009_007.png",
+    "label": "seg/s0009_007.png"
+  },
+  {
+    "image": "image/s0178_009.png",
+    "label": "seg/s0178_009.png"
+  },
+  {
+    "image": "image/s1062_004.png",
+    "label": "seg/s1062_004.png"
+  },
+  {
+    "image": "image/s0340_030.png",
+    "label": "seg/s0340_030.png"
+  },
+  {
+    "image": "image/s1077_017.png",
+    "label": "seg/s1077_017.png"
+  },
+  {
+    "image": "image/s1094_020.png",
+    "label": "seg/s1094_020.png"
+  },
+  {
+    "image": "image/s0175_024.png",
+    "label": "seg/s0175_024.png"
+  },
+  {
+    "image": "image/s0411_003.png",
+    "label": "seg/s0411_003.png"
+  },
+  {
+    "image": "image/s0510_024.png",
+    "label": "seg/s0510_024.png"
+  },
+  {
+    "image": "image/s0334_019.png",
+    "label": "seg/s0334_019.png"
+  },
+  {
+    "image": "image/s0383_002.png",
+    "label": "seg/s0383_002.png"
+  },
+  {
+    "image": "image/s0029_004.png",
+    "label": "seg/s0029_004.png"
+  },
+  {
+    "image": "image/s0837_011.png",
+    "label": "seg/s0837_011.png"
+  },
+  {
+    "image": "image/s0484_023.png",
+    "label": "seg/s0484_023.png"
+  },
+  {
+    "image": "image/s0102_022.png",
+    "label": "seg/s0102_022.png"
+  },
+  {
+    "image": "image/s0507_004.png",
+    "label": "seg/s0507_004.png"
+  },
+  {
+    "image": "image/s0497_006.png",
+    "label": "seg/s0497_006.png"
+  },
+  {
+    "image": "image/s0549_029.png",
+    "label": "seg/s0549_029.png"
+  },
+  {
+    "image": "image/s0139_010.png",
+    "label": "seg/s0139_010.png"
+  },
+  {
+    "image": "image/s0212_003.png",
+    "label": "seg/s0212_003.png"
+  },
+  {
+    "image": "image/s0021_002.png",
+    "label": "seg/s0021_002.png"
+  },
+  {
+    "image": "image/s0431_016.png",
+    "label": "seg/s0431_016.png"
+  },
+  {
+    "image": "image/s0410_003.png",
+    "label": "seg/s0410_003.png"
+  },
+  {
+    "image": "image/s0150_023.png",
+    "label": "seg/s0150_023.png"
+  },
+  {
+    "image": "image/s0389_016.png",
+    "label": "seg/s0389_016.png"
+  },
+  {
+    "image": "image/s0292_009.png",
+    "label": "seg/s0292_009.png"
+  },
+  {
+    "image": "image/s0034_027.png",
+    "label": "seg/s0034_027.png"
+  },
+  {
+    "image": "image/s0774_011.png",
+    "label": "seg/s0774_011.png"
+  },
+  {
+    "image": "image/s0034_019.png",
+    "label": "seg/s0034_019.png"
+  },
+  {
+    "image": "image/s1357_005.png",
+    "label": "seg/s1357_005.png"
+  },
+  {
+    "image": "image/s0163_023.png",
+    "label": "seg/s0163_023.png"
+  },
+  {
+    "image": "image/s0012_006.png",
+    "label": "seg/s0012_006.png"
+  },
+  {
+    "image": "image/s0156_008.png",
+    "label": "seg/s0156_008.png"
+  },
+  {
+    "image": "image/s1094_014.png",
+    "label": "seg/s1094_014.png"
+  },
+  {
+    "image": "image/s1208_015.png",
+    "label": "seg/s1208_015.png"
+  },
+  {
+    "image": "image/s0697_018.png",
+    "label": "seg/s0697_018.png"
+  },
+  {
+    "image": "image/s0574_006.png",
+    "label": "seg/s0574_006.png"
+  },
+  {
+    "image": "image/s0059_023.png",
+    "label": "seg/s0059_023.png"
+  },
+  {
+    "image": "image/s0603_003.png",
+    "label": "seg/s0603_003.png"
+  },
+  {
+    "image": "image/s0089_011.png",
+    "label": "seg/s0089_011.png"
+  },
+  {
+    "image": "image/s0697_004.png",
+    "label": "seg/s0697_004.png"
+  },
+  {
+    "image": "image/s0029_002.png",
+    "label": "seg/s0029_002.png"
+  },
+  {
+    "image": "image/s0260_014.png",
+    "label": "seg/s0260_014.png"
+  },
+  {
+    "image": "image/s0858_015.png",
+    "label": "seg/s0858_015.png"
+  },
+  {
+    "image": "image/s0250_000.png",
+    "label": "seg/s0250_000.png"
+  },
+  {
+    "image": "image/s0248_007.png",
+    "label": "seg/s0248_007.png"
+  },
+  {
+    "image": "image/s0038_001.png",
+    "label": "seg/s0038_001.png"
+  },
+  {
+    "image": "image/s0740_020.png",
+    "label": "seg/s0740_020.png"
+  },
+  {
+    "image": "image/s0423_001.png",
+    "label": "seg/s0423_001.png"
+  },
+  {
+    "image": "image/s0162_010.png",
+    "label": "seg/s0162_010.png"
+  },
+  {
+    "image": "image/s0707_025.png",
+    "label": "seg/s0707_025.png"
+  },
+  {
+    "image": "image/s0751_001.png",
+    "label": "seg/s0751_001.png"
+  },
+  {
+    "image": "image/s0595_016.png",
+    "label": "seg/s0595_016.png"
+  },
+  {
+    "image": "image/s0724_006.png",
+    "label": "seg/s0724_006.png"
+  },
+  {
+    "image": "image/s0067_000.png",
+    "label": "seg/s0067_000.png"
+  },
+  {
+    "image": "image/s0132_000.png",
+    "label": "seg/s0132_000.png"
+  },
+  {
+    "image": "image/s0436_005.png",
+    "label": "seg/s0436_005.png"
+  },
+  {
+    "image": "image/s0150_017.png",
+    "label": "seg/s0150_017.png"
+  },
+  {
+    "image": "image/s0199_005.png",
+    "label": "seg/s0199_005.png"
+  },
+  {
+    "image": "image/s0361_018.png",
+    "label": "seg/s0361_018.png"
+  },
+  {
+    "image": "image/s0190_008.png",
+    "label": "seg/s0190_008.png"
+  },
+  {
+    "image": "image/s0161_003.png",
+    "label": "seg/s0161_003.png"
+  },
+  {
+    "image": "image/s0362_000.png",
+    "label": "seg/s0362_000.png"
+  },
+  {
+    "image": "image/s0028_024.png",
+    "label": "seg/s0028_024.png"
+  },
+  {
+    "image": "image/s0587_010.png",
+    "label": "seg/s0587_010.png"
+  },
+  {
+    "image": "image/s0165_012.png",
+    "label": "seg/s0165_012.png"
+  },
+  {
+    "image": "image/s0024_020.png",
+    "label": "seg/s0024_020.png"
+  },
+  {
+    "image": "image/s0321_004.png",
+    "label": "seg/s0321_004.png"
+  },
+  {
+    "image": "image/s0420_003.png",
+    "label": "seg/s0420_003.png"
+  },
+  {
+    "image": "image/s0375_005.png",
+    "label": "seg/s0375_005.png"
+  },
+  {
+    "image": "image/s0543_027.png",
+    "label": "seg/s0543_027.png"
+  },
+  {
+    "image": "image/s0472_018.png",
+    "label": "seg/s0472_018.png"
+  },
+  {
+    "image": "image/s0571_031.png",
+    "label": "seg/s0571_031.png"
+  },
+  {
+    "image": "image/s0352_002.png",
+    "label": "seg/s0352_002.png"
+  },
+  {
+    "image": "image/s1371_010.png",
+    "label": "seg/s1371_010.png"
+  },
+  {
+    "image": "image/s0497_003.png",
+    "label": "seg/s0497_003.png"
+  },
+  {
+    "image": "image/s0736_027.png",
+    "label": "seg/s0736_027.png"
+  },
+  {
+    "image": "image/s0456_029.png",
+    "label": "seg/s0456_029.png"
+  },
+  {
+    "image": "image/s0292_026.png",
+    "label": "seg/s0292_026.png"
+  },
+  {
+    "image": "image/s0336_022.png",
+    "label": "seg/s0336_022.png"
+  },
+  {
+    "image": "image/s1226_027.png",
+    "label": "seg/s1226_027.png"
+  },
+  {
+    "image": "image/s1013_019.png",
+    "label": "seg/s1013_019.png"
+  },
+  {
+    "image": "image/s0467_024.png",
+    "label": "seg/s0467_024.png"
+  },
+  {
+    "image": "image/s0137_005.png",
+    "label": "seg/s0137_005.png"
+  },
+  {
+    "image": "image/s0158_007.png",
+    "label": "seg/s0158_007.png"
+  },
+  {
+    "image": "image/s0162_026.png",
+    "label": "seg/s0162_026.png"
+  },
+  {
+    "image": "image/s0131_023.png",
+    "label": "seg/s0131_023.png"
+  },
+  {
+    "image": "image/s0804_024.png",
+    "label": "seg/s0804_024.png"
+  },
+  {
+    "image": "image/s1384_011.png",
+    "label": "seg/s1384_011.png"
+  },
+  {
+    "image": "image/s0010_001.png",
+    "label": "seg/s0010_001.png"
+  },
+  {
+    "image": "image/s0028_023.png",
+    "label": "seg/s0028_023.png"
+  },
+  {
+    "image": "image/s0152_000.png",
+    "label": "seg/s0152_000.png"
+  },
+  {
+    "image": "image/s0012_007.png",
+    "label": "seg/s0012_007.png"
+  },
+  {
+    "image": "image/s1378_017.png",
+    "label": "seg/s1378_017.png"
+  },
+  {
+    "image": "image/s0070_015.png",
+    "label": "seg/s0070_015.png"
+  },
+  {
+    "image": "image/s0461_017.png",
+    "label": "seg/s0461_017.png"
+  },
+  {
+    "image": "image/s0175_007.png",
+    "label": "seg/s0175_007.png"
+  },
+  {
+    "image": "image/s0447_006.png",
+    "label": "seg/s0447_006.png"
+  },
+  {
+    "image": "image/s0132_014.png",
+    "label": "seg/s0132_014.png"
+  },
+  {
+    "image": "image/s0498_025.png",
+    "label": "seg/s0498_025.png"
+  },
+  {
+    "image": "image/s0153_013.png",
+    "label": "seg/s0153_013.png"
+  },
+  {
+    "image": "image/s0519_006.png",
+    "label": "seg/s0519_006.png"
+  },
+  {
+    "image": "image/s0038_030.png",
+    "label": "seg/s0038_030.png"
+  },
+  {
+    "image": "image/s0029_015.png",
+    "label": "seg/s0029_015.png"
+  },
+  {
+    "image": "image/s0137_007.png",
+    "label": "seg/s0137_007.png"
+  },
+  {
+    "image": "image/s0519_016.png",
+    "label": "seg/s0519_016.png"
+  },
+  {
+    "image": "image/s0102_024.png",
+    "label": "seg/s0102_024.png"
+  },
+  {
+    "image": "image/s0187_028.png",
+    "label": "seg/s0187_028.png"
+  },
+  {
+    "image": "image/s0420_022.png",
+    "label": "seg/s0420_022.png"
+  },
+  {
+    "image": "image/s1013_024.png",
+    "label": "seg/s1013_024.png"
+  },
+  {
+    "image": "image/s0241_006.png",
+    "label": "seg/s0241_006.png"
+  },
+  {
+    "image": "image/s0056_026.png",
+    "label": "seg/s0056_026.png"
+  },
+  {
+    "image": "image/s0574_024.png",
+    "label": "seg/s0574_024.png"
+  },
+  {
+    "image": "image/s0595_015.png",
+    "label": "seg/s0595_015.png"
+  },
+  {
+    "image": "image/s0034_021.png",
+    "label": "seg/s0034_021.png"
+  },
+  {
+    "image": "image/s0456_004.png",
+    "label": "seg/s0456_004.png"
+  },
+  {
+    "image": "image/s0340_002.png",
+    "label": "seg/s0340_002.png"
+  },
+  {
+    "image": "image/s0010_031.png",
+    "label": "seg/s0010_031.png"
+  },
+  {
+    "image": "image/s0478_007.png",
+    "label": "seg/s0478_007.png"
+  },
+  {
+    "image": "image/s0079_002.png",
+    "label": "seg/s0079_002.png"
+  },
+  {
+    "image": "image/s0287_009.png",
+    "label": "seg/s0287_009.png"
+  },
+  {
+    "image": "image/s1142_008.png",
+    "label": "seg/s1142_008.png"
+  },
+  {
+    "image": "image/s0003_018.png",
+    "label": "seg/s0003_018.png"
+  },
+  {
+    "image": "image/s0291_017.png",
+    "label": "seg/s0291_017.png"
+  },
+  {
+    "image": "image/s0089_010.png",
+    "label": "seg/s0089_010.png"
+  },
+  {
+    "image": "image/s0182_028.png",
+    "label": "seg/s0182_028.png"
+  },
+  {
+    "image": "image/s0131_014.png",
+    "label": "seg/s0131_014.png"
+  },
+  {
+    "image": "image/s0124_003.png",
+    "label": "seg/s0124_003.png"
+  },
+  {
+    "image": "image/s1380_029.png",
+    "label": "seg/s1380_029.png"
+  },
+  {
+    "image": "image/s0156_021.png",
+    "label": "seg/s0156_021.png"
+  },
+  {
+    "image": "image/s0476_016.png",
+    "label": "seg/s0476_016.png"
+  },
+  {
+    "image": "image/s0669_026.png",
+    "label": "seg/s0669_026.png"
+  },
+  {
+    "image": "image/s0327_028.png",
+    "label": "seg/s0327_028.png"
+  },
+  {
+    "image": "image/s0021_013.png",
+    "label": "seg/s0021_013.png"
+  },
+  {
+    "image": "image/s0502_014.png",
+    "label": "seg/s0502_014.png"
+  },
+  {
+    "image": "image/s0692_027.png",
+    "label": "seg/s0692_027.png"
+  },
+  {
+    "image": "image/s0021_008.png",
+    "label": "seg/s0021_008.png"
+  },
+  {
+    "image": "image/s1292_008.png",
+    "label": "seg/s1292_008.png"
+  },
+  {
+    "image": "image/s0474_013.png",
+    "label": "seg/s0474_013.png"
+  },
+  {
+    "image": "image/s0128_018.png",
+    "label": "seg/s0128_018.png"
+  },
+  {
+    "image": "image/s0028_021.png",
+    "label": "seg/s0028_021.png"
+  },
+  {
+    "image": "image/s0212_017.png",
+    "label": "seg/s0212_017.png"
+  },
+  {
+    "image": "image/s0502_031.png",
+    "label": "seg/s0502_031.png"
+  },
+  {
+    "image": "image/s0429_021.png",
+    "label": "seg/s0429_021.png"
+  },
+  {
+    "image": "image/s0086_019.png",
+    "label": "seg/s0086_019.png"
+  },
+  {
+    "image": "image/s0044_003.png",
+    "label": "seg/s0044_003.png"
+  },
+  {
+    "image": "image/s0157_017.png",
+    "label": "seg/s0157_017.png"
+  },
+  {
+    "image": "image/s0551_009.png",
+    "label": "seg/s0551_009.png"
+  },
+  {
+    "image": "image/s0153_025.png",
+    "label": "seg/s0153_025.png"
+  },
+  {
+    "image": "image/s1208_019.png",
+    "label": "seg/s1208_019.png"
+  },
+  {
+    "image": "image/s0120_010.png",
+    "label": "seg/s0120_010.png"
+  },
+  {
+    "image": "image/s0837_002.png",
+    "label": "seg/s0837_002.png"
+  },
+  {
+    "image": "image/s0336_001.png",
+    "label": "seg/s0336_001.png"
+  },
+  {
+    "image": "image/s1094_029.png",
+    "label": "seg/s1094_029.png"
+  },
+  {
+    "image": "image/s0549_011.png",
+    "label": "seg/s0549_011.png"
+  },
+  {
+    "image": "image/s0059_002.png",
+    "label": "seg/s0059_002.png"
+  },
+  {
+    "image": "image/s0500_005.png",
+    "label": "seg/s0500_005.png"
+  },
+  {
+    "image": "image/s0117_008.png",
+    "label": "seg/s0117_008.png"
+  },
+  {
+    "image": "image/s0536_002.png",
+    "label": "seg/s0536_002.png"
+  },
+  {
+    "image": "image/s0089_031.png",
+    "label": "seg/s0089_031.png"
+  },
+  {
+    "image": "image/s0050_007.png",
+    "label": "seg/s0050_007.png"
+  },
+  {
+    "image": "image/s0003_008.png",
+    "label": "seg/s0003_008.png"
+  },
+  {
+    "image": "image/s0550_016.png",
+    "label": "seg/s0550_016.png"
+  },
+  {
+    "image": "image/s0123_028.png",
+    "label": "seg/s0123_028.png"
+  },
+  {
+    "image": "image/s0006_023.png",
+    "label": "seg/s0006_023.png"
+  },
+  {
+    "image": "image/s1013_016.png",
+    "label": "seg/s1013_016.png"
+  },
+  {
+    "image": "image/s0561_011.png",
+    "label": "seg/s0561_011.png"
+  },
+  {
+    "image": "image/s0707_022.png",
+    "label": "seg/s0707_022.png"
+  },
+  {
+    "image": "image/s0158_013.png",
+    "label": "seg/s0158_013.png"
+  },
+  {
+    "image": "image/s0024_029.png",
+    "label": "seg/s0024_029.png"
+  },
+  {
+    "image": "image/s0199_017.png",
+    "label": "seg/s0199_017.png"
+  },
+  {
+    "image": "image/s0139_014.png",
+    "label": "seg/s0139_014.png"
+  },
+  {
+    "image": "image/s0536_012.png",
+    "label": "seg/s0536_012.png"
+  },
+  {
+    "image": "image/s0190_031.png",
+    "label": "seg/s0190_031.png"
+  },
+  {
+    "image": "image/s0685_009.png",
+    "label": "seg/s0685_009.png"
+  },
+  {
+    "image": "image/s0285_014.png",
+    "label": "seg/s0285_014.png"
+  },
+  {
+    "image": "image/s0131_030.png",
+    "label": "seg/s0131_030.png"
+  },
+  {
+    "image": "image/s0510_014.png",
+    "label": "seg/s0510_014.png"
+  },
+  {
+    "image": "image/s1371_004.png",
+    "label": "seg/s1371_004.png"
+  },
+  {
+    "image": "image/s0063_012.png",
+    "label": "seg/s0063_012.png"
+  },
+  {
+    "image": "image/s0132_017.png",
+    "label": "seg/s0132_017.png"
+  },
+  {
+    "image": "image/s0079_007.png",
+    "label": "seg/s0079_007.png"
+  },
+  {
+    "image": "image/s0669_001.png",
+    "label": "seg/s0669_001.png"
+  },
+  {
+    "image": "image/s1378_027.png",
+    "label": "seg/s1378_027.png"
+  },
+  {
+    "image": "image/s0061_002.png",
+    "label": "seg/s0061_002.png"
+  },
+  {
+    "image": "image/s0285_012.png",
+    "label": "seg/s0285_012.png"
+  },
+  {
+    "image": "image/s0551_000.png",
+    "label": "seg/s0551_000.png"
+  },
+  {
+    "image": "image/s0483_011.png",
+    "label": "seg/s0483_011.png"
+  },
+  {
+    "image": "image/s0840_009.png",
+    "label": "seg/s0840_009.png"
+  },
+  {
+    "image": "image/s0143_003.png",
+    "label": "seg/s0143_003.png"
+  },
+  {
+    "image": "image/s0132_020.png",
+    "label": "seg/s0132_020.png"
+  },
+  {
+    "image": "image/s0044_031.png",
+    "label": "seg/s0044_031.png"
+  },
+  {
+    "image": "image/s0287_025.png",
+    "label": "seg/s0287_025.png"
+  },
+  {
+    "image": "image/s0587_022.png",
+    "label": "seg/s0587_022.png"
+  },
+  {
+    "image": "image/s0740_025.png",
+    "label": "seg/s0740_025.png"
+  },
+  {
+    "image": "image/s0514_030.png",
+    "label": "seg/s0514_030.png"
+  },
+  {
+    "image": "image/s0347_024.png",
+    "label": "seg/s0347_024.png"
+  },
+  {
+    "image": "image/s0692_014.png",
+    "label": "seg/s0692_014.png"
+  },
+  {
+    "image": "image/s1349_031.png",
+    "label": "seg/s1349_031.png"
+  },
+  {
+    "image": "image/s0352_027.png",
+    "label": "seg/s0352_027.png"
+  },
+  {
+    "image": "image/s0503_026.png",
+    "label": "seg/s0503_026.png"
+  },
+  {
+    "image": "image/s0057_030.png",
+    "label": "seg/s0057_030.png"
+  },
+  {
+    "image": "image/s0367_015.png",
+    "label": "seg/s0367_015.png"
+  },
+  {
+    "image": "image/s0460_010.png",
+    "label": "seg/s0460_010.png"
+  },
+  {
+    "image": "image/s0063_023.png",
+    "label": "seg/s0063_023.png"
+  },
+  {
+    "image": "image/s0038_026.png",
+    "label": "seg/s0038_026.png"
+  },
+  {
+    "image": "image/s0137_022.png",
+    "label": "seg/s0137_022.png"
+  },
+  {
+    "image": "image/s1397_003.png",
+    "label": "seg/s1397_003.png"
+  },
+  {
+    "image": "image/s0477_002.png",
+    "label": "seg/s0477_002.png"
+  },
+  {
+    "image": "image/s0321_007.png",
+    "label": "seg/s0321_007.png"
+  },
+  {
+    "image": "image/s0006_003.png",
+    "label": "seg/s0006_003.png"
+  },
+  {
+    "image": "image/s0001_027.png",
+    "label": "seg/s0001_027.png"
+  },
+  {
+    "image": "image/s0376_006.png",
+    "label": "seg/s0376_006.png"
+  },
+  {
+    "image": "image/s0108_019.png",
+    "label": "seg/s0108_019.png"
+  },
+  {
+    "image": "image/s0574_001.png",
+    "label": "seg/s0574_001.png"
+  },
+  {
+    "image": "image/s0460_029.png",
+    "label": "seg/s0460_029.png"
+  },
+  {
+    "image": "image/s0697_028.png",
+    "label": "seg/s0697_028.png"
+  },
+  {
+    "image": "image/s0165_023.png",
+    "label": "seg/s0165_023.png"
+  },
+  {
+    "image": "image/s0519_011.png",
+    "label": "seg/s0519_011.png"
+  },
+  {
+    "image": "image/s0352_005.png",
+    "label": "seg/s0352_005.png"
+  },
+  {
+    "image": "image/s0487_023.png",
+    "label": "seg/s0487_023.png"
+  },
+  {
+    "image": "image/s0429_030.png",
+    "label": "seg/s0429_030.png"
+  },
+  {
+    "image": "image/s0440_015.png",
+    "label": "seg/s0440_015.png"
+  },
+  {
+    "image": "image/s0103_026.png",
+    "label": "seg/s0103_026.png"
+  },
+  {
+    "image": "image/s0187_025.png",
+    "label": "seg/s0187_025.png"
+  },
+  {
+    "image": "image/s0119_000.png",
+    "label": "seg/s0119_000.png"
+  },
+  {
+    "image": "image/s0751_024.png",
+    "label": "seg/s0751_024.png"
+  },
+  {
+    "image": "image/s0605_030.png",
+    "label": "seg/s0605_030.png"
+  },
+  {
+    "image": "image/s0190_011.png",
+    "label": "seg/s0190_011.png"
+  },
+  {
+    "image": "image/s0131_021.png",
+    "label": "seg/s0131_021.png"
+  },
+  {
+    "image": "image/s1384_023.png",
+    "label": "seg/s1384_023.png"
+  },
+  {
+    "image": "image/s0446_030.png",
+    "label": "seg/s0446_030.png"
+  },
+  {
+    "image": "image/s0436_014.png",
+    "label": "seg/s0436_014.png"
+  },
+  {
+    "image": "image/s0291_019.png",
+    "label": "seg/s0291_019.png"
+  },
+  {
+    "image": "image/s1397_023.png",
+    "label": "seg/s1397_023.png"
+  },
+  {
+    "image": "image/s0361_005.png",
+    "label": "seg/s0361_005.png"
+  },
+  {
+    "image": "image/s0158_009.png",
+    "label": "seg/s0158_009.png"
+  },
+  {
+    "image": "image/s0483_001.png",
+    "label": "seg/s0483_001.png"
+  },
+  {
+    "image": "image/s0241_000.png",
+    "label": "seg/s0241_000.png"
+  },
+  {
+    "image": "image/s0157_026.png",
+    "label": "seg/s0157_026.png"
+  },
+  {
+    "image": "image/s1359_002.png",
+    "label": "seg/s1359_002.png"
+  },
+  {
+    "image": "image/s0178_027.png",
+    "label": "seg/s0178_027.png"
+  },
+  {
+    "image": "image/s1013_007.png",
+    "label": "seg/s1013_007.png"
+  },
+  {
+    "image": "image/s0791_016.png",
+    "label": "seg/s0791_016.png"
+  },
+  {
+    "image": "image/s0840_002.png",
+    "label": "seg/s0840_002.png"
+  },
+  {
+    "image": "image/s0546_031.png",
+    "label": "seg/s0546_031.png"
+  },
+  {
+    "image": "image/s0334_023.png",
+    "label": "seg/s0334_023.png"
+  },
+  {
+    "image": "image/s0543_028.png",
+    "label": "seg/s0543_028.png"
+  },
+  {
+    "image": "image/s0012_010.png",
+    "label": "seg/s0012_010.png"
+  },
+  {
+    "image": "image/s0521_018.png",
+    "label": "seg/s0521_018.png"
+  },
+  {
+    "image": "image/s0037_004.png",
+    "label": "seg/s0037_004.png"
+  },
+  {
+    "image": "image/s0120_029.png",
+    "label": "seg/s0120_029.png"
+  },
+  {
+    "image": "image/s0167_004.png",
+    "label": "seg/s0167_004.png"
+  },
+  {
+    "image": "image/s0028_018.png",
+    "label": "seg/s0028_018.png"
+  },
+  {
+    "image": "image/s0858_029.png",
+    "label": "seg/s0858_029.png"
+  },
+  {
+    "image": "image/s0021_003.png",
+    "label": "seg/s0021_003.png"
+  },
+  {
+    "image": "image/s1357_018.png",
+    "label": "seg/s1357_018.png"
+  },
+  {
+    "image": "image/s0543_014.png",
+    "label": "seg/s0543_014.png"
+  },
+  {
+    "image": "image/s0190_012.png",
+    "label": "seg/s0190_012.png"
+  },
+  {
+    "image": "image/s1399_003.png",
+    "label": "seg/s1399_003.png"
+  },
+  {
+    "image": "image/s0000_010.png",
+    "label": "seg/s0000_010.png"
+  },
+  {
+    "image": "image/s1004_003.png",
+    "label": "seg/s1004_003.png"
+  },
+  {
+    "image": "image/s0178_018.png",
+    "label": "seg/s0178_018.png"
+  },
+  {
+    "image": "image/s0362_006.png",
+    "label": "seg/s0362_006.png"
+  },
+  {
+    "image": "image/s0837_014.png",
+    "label": "seg/s0837_014.png"
+  },
+  {
+    "image": "image/s1013_011.png",
+    "label": "seg/s1013_011.png"
+  },
+  {
+    "image": "image/s0028_014.png",
+    "label": "seg/s0028_014.png"
+  },
+  {
+    "image": "image/s0751_018.png",
+    "label": "seg/s0751_018.png"
+  },
+  {
+    "image": "image/s0502_026.png",
+    "label": "seg/s0502_026.png"
+  },
+  {
+    "image": "image/s0321_023.png",
+    "label": "seg/s0321_023.png"
+  },
+  {
+    "image": "image/s0546_029.png",
+    "label": "seg/s0546_029.png"
+  },
+  {
+    "image": "image/s0040_007.png",
+    "label": "seg/s0040_007.png"
+  },
+  {
+    "image": "image/s1026_005.png",
+    "label": "seg/s1026_005.png"
+  },
+  {
+    "image": "image/s0371_024.png",
+    "label": "seg/s0371_024.png"
+  },
+  {
+    "image": "image/s0156_030.png",
+    "label": "seg/s0156_030.png"
+  },
+  {
+    "image": "image/s0474_012.png",
+    "label": "seg/s0474_012.png"
+  },
+  {
+    "image": "image/s0250_024.png",
+    "label": "seg/s0250_024.png"
+  },
+  {
+    "image": "image/s0804_010.png",
+    "label": "seg/s0804_010.png"
+  },
+  {
+    "image": "image/s0080_004.png",
+    "label": "seg/s0080_004.png"
+  },
+  {
+    "image": "image/s0675_027.png",
+    "label": "seg/s0675_027.png"
+  },
+  {
+    "image": "image/s0561_005.png",
+    "label": "seg/s0561_005.png"
+  },
+  {
+    "image": "image/s0402_004.png",
+    "label": "seg/s0402_004.png"
+  },
+  {
+    "image": "image/s0393_012.png",
+    "label": "seg/s0393_012.png"
+  },
+  {
+    "image": "image/s0652_031.png",
+    "label": "seg/s0652_031.png"
+  },
+  {
+    "image": "image/s1349_009.png",
+    "label": "seg/s1349_009.png"
+  },
+  {
+    "image": "image/s0408_006.png",
+    "label": "seg/s0408_006.png"
+  },
+  {
+    "image": "image/s0468_000.png",
+    "label": "seg/s0468_000.png"
+  },
+  {
+    "image": "image/s0034_005.png",
+    "label": "seg/s0034_005.png"
+  },
+  {
+    "image": "image/s1344_007.png",
+    "label": "seg/s1344_007.png"
+  },
+  {
+    "image": "image/s0162_011.png",
+    "label": "seg/s0162_011.png"
+  },
+  {
+    "image": "image/s0467_015.png",
+    "label": "seg/s0467_015.png"
+  },
+  {
+    "image": "image/s0500_025.png",
+    "label": "seg/s0500_025.png"
+  },
+  {
+    "image": "image/s0174_013.png",
+    "label": "seg/s0174_013.png"
+  },
+  {
+    "image": "image/s0561_022.png",
+    "label": "seg/s0561_022.png"
+  },
+  {
+    "image": "image/s0498_003.png",
+    "label": "seg/s0498_003.png"
+  },
+  {
+    "image": "image/s0059_031.png",
+    "label": "seg/s0059_031.png"
+  },
+  {
+    "image": "image/s0669_011.png",
+    "label": "seg/s0669_011.png"
+  },
+  {
+    "image": "image/s0289_026.png",
+    "label": "seg/s0289_026.png"
+  },
+  {
+    "image": "image/s0010_011.png",
+    "label": "seg/s0010_011.png"
+  },
+  {
+    "image": "image/s0327_030.png",
+    "label": "seg/s0327_030.png"
+  },
+  {
+    "image": "image/s1208_007.png",
+    "label": "seg/s1208_007.png"
+  },
+  {
+    "image": "image/s0250_023.png",
+    "label": "seg/s0250_023.png"
+  },
+  {
+    "image": "image/s0468_011.png",
+    "label": "seg/s0468_011.png"
+  },
+  {
+    "image": "image/s0340_010.png",
+    "label": "seg/s0340_010.png"
+  },
+  {
+    "image": "image/s0150_010.png",
+    "label": "seg/s0150_010.png"
+  },
+  {
+    "image": "image/s0724_015.png",
+    "label": "seg/s0724_015.png"
+  },
+  {
+    "image": "image/s0410_028.png",
+    "label": "seg/s0410_028.png"
+  },
+  {
+    "image": "image/s1357_017.png",
+    "label": "seg/s1357_017.png"
+  },
+  {
+    "image": "image/s0131_018.png",
+    "label": "seg/s0131_018.png"
+  },
+  {
+    "image": "image/s1399_001.png",
+    "label": "seg/s1399_001.png"
+  },
+  {
+    "image": "image/s0152_007.png",
+    "label": "seg/s0152_007.png"
+  },
+  {
+    "image": "image/s0516_007.png",
+    "label": "seg/s0516_007.png"
+  },
+  {
+    "image": "image/s1369_025.png",
+    "label": "seg/s1369_025.png"
+  },
+  {
+    "image": "image/s0336_015.png",
+    "label": "seg/s0336_015.png"
+  },
+  {
+    "image": "image/s0128_009.png",
+    "label": "seg/s0128_009.png"
+  },
+  {
+    "image": "image/s0160_011.png",
+    "label": "seg/s0160_011.png"
+  },
+  {
+    "image": "image/s0487_029.png",
+    "label": "seg/s0487_029.png"
+  },
+  {
+    "image": "image/s0152_021.png",
+    "label": "seg/s0152_021.png"
+  },
+  {
+    "image": "image/s0561_006.png",
+    "label": "seg/s0561_006.png"
+  },
+  {
+    "image": "image/s0410_000.png",
+    "label": "seg/s0410_000.png"
+  },
+  {
+    "image": "image/s0132_012.png",
+    "label": "seg/s0132_012.png"
+  },
+  {
+    "image": "image/s0605_018.png",
+    "label": "seg/s0605_018.png"
+  },
+  {
+    "image": "image/s0071_002.png",
+    "label": "seg/s0071_002.png"
+  },
+  {
+    "image": "image/s0110_027.png",
+    "label": "seg/s0110_027.png"
+  },
+  {
+    "image": "image/s0393_031.png",
+    "label": "seg/s0393_031.png"
+  },
+  {
+    "image": "image/s0546_019.png",
+    "label": "seg/s0546_019.png"
+  },
+  {
+    "image": "image/s1378_009.png",
+    "label": "seg/s1378_009.png"
+  },
+  {
+    "image": "image/s0012_028.png",
+    "label": "seg/s0012_028.png"
+  },
+  {
+    "image": "image/s0549_018.png",
+    "label": "seg/s0549_018.png"
+  },
+  {
+    "image": "image/s0028_013.png",
+    "label": "seg/s0028_013.png"
+  },
+  {
+    "image": "image/s1094_017.png",
+    "label": "seg/s1094_017.png"
+  },
+  {
+    "image": "image/s0043_018.png",
+    "label": "seg/s0043_018.png"
+  },
+  {
+    "image": "image/s0503_030.png",
+    "label": "seg/s0503_030.png"
+  },
+  {
+    "image": "image/s0009_017.png",
+    "label": "seg/s0009_017.png"
+  },
+  {
+    "image": "image/s0165_004.png",
+    "label": "seg/s0165_004.png"
+  },
+  {
+    "image": "image/s0175_011.png",
+    "label": "seg/s0175_011.png"
+  },
+  {
+    "image": "image/s0141_011.png",
+    "label": "seg/s0141_011.png"
+  },
+  {
+    "image": "image/s1004_000.png",
+    "label": "seg/s1004_000.png"
+  },
+  {
+    "image": "image/s0605_025.png",
+    "label": "seg/s0605_025.png"
+  },
+  {
+    "image": "image/s0393_029.png",
+    "label": "seg/s0393_029.png"
+  },
+  {
+    "image": "image/s0736_015.png",
+    "label": "seg/s0736_015.png"
+  },
+  {
+    "image": "image/s0004_002.png",
+    "label": "seg/s0004_002.png"
+  },
+  {
+    "image": "image/s0146_019.png",
+    "label": "seg/s0146_019.png"
+  },
+  {
+    "image": "image/s1292_013.png",
+    "label": "seg/s1292_013.png"
+  },
+  {
+    "image": "image/s0467_030.png",
+    "label": "seg/s0467_030.png"
+  },
+  {
+    "image": "image/s0059_000.png",
+    "label": "seg/s0059_000.png"
+  },
+  {
+    "image": "image/s0175_002.png",
+    "label": "seg/s0175_002.png"
+  },
+  {
+    "image": "image/s0182_009.png",
+    "label": "seg/s0182_009.png"
+  },
+  {
+    "image": "image/s0248_017.png",
+    "label": "seg/s0248_017.png"
+  },
+  {
+    "image": "image/s0783_000.png",
+    "label": "seg/s0783_000.png"
+  },
+  {
+    "image": "image/s0103_016.png",
+    "label": "seg/s0103_016.png"
+  },
+  {
+    "image": "image/s0241_004.png",
+    "label": "seg/s0241_004.png"
+  },
+  {
+    "image": "image/s0484_008.png",
+    "label": "seg/s0484_008.png"
+  },
+  {
+    "image": "image/s0393_015.png",
+    "label": "seg/s0393_015.png"
+  },
+  {
+    "image": "image/s0436_008.png",
+    "label": "seg/s0436_008.png"
+  },
+  {
+    "image": "image/s0388_010.png",
+    "label": "seg/s0388_010.png"
+  },
+  {
+    "image": "image/s0248_021.png",
+    "label": "seg/s0248_021.png"
+  },
+  {
+    "image": "image/s0375_025.png",
+    "label": "seg/s0375_025.png"
+  },
+  {
+    "image": "image/s0383_028.png",
+    "label": "seg/s0383_028.png"
+  },
+  {
+    "image": "image/s0327_001.png",
+    "label": "seg/s0327_001.png"
+  },
+  {
+    "image": "image/s0608_003.png",
+    "label": "seg/s0608_003.png"
+  },
+  {
+    "image": "image/s0501_001.png",
+    "label": "seg/s0501_001.png"
+  },
+  {
+    "image": "image/s1094_018.png",
+    "label": "seg/s1094_018.png"
+  },
+  {
+    "image": "image/s0287_029.png",
+    "label": "seg/s0287_029.png"
+  },
+  {
+    "image": "image/s0163_025.png",
+    "label": "seg/s0163_025.png"
+  },
+  {
+    "image": "image/s0476_000.png",
+    "label": "seg/s0476_000.png"
+  },
+  {
+    "image": "image/s0086_021.png",
+    "label": "seg/s0086_021.png"
+  },
+  {
+    "image": "image/s0502_028.png",
+    "label": "seg/s0502_028.png"
+  },
+  {
+    "image": "image/s0044_005.png",
+    "label": "seg/s0044_005.png"
+  },
+  {
+    "image": "image/s0478_012.png",
+    "label": "seg/s0478_012.png"
+  },
+  {
+    "image": "image/s0162_014.png",
+    "label": "seg/s0162_014.png"
+  },
+  {
+    "image": "image/s1388_001.png",
+    "label": "seg/s1388_001.png"
+  },
+  {
+    "image": "image/s0161_000.png",
+    "label": "seg/s0161_000.png"
+  },
+  {
+    "image": "image/s0895_029.png",
+    "label": "seg/s0895_029.png"
+  },
+  {
+    "image": "image/s0429_001.png",
+    "label": "seg/s0429_001.png"
+  },
+  {
+    "image": "image/s0429_018.png",
+    "label": "seg/s0429_018.png"
+  },
+  {
+    "image": "image/s0292_006.png",
+    "label": "seg/s0292_006.png"
+  },
+  {
+    "image": "image/s0367_020.png",
+    "label": "seg/s0367_020.png"
+  },
+  {
+    "image": "image/s0697_012.png",
+    "label": "seg/s0697_012.png"
+  },
+  {
+    "image": "image/s0376_001.png",
+    "label": "seg/s0376_001.png"
+  },
+  {
+    "image": "image/s0627_029.png",
+    "label": "seg/s0627_029.png"
+  },
+  {
+    "image": "image/s0502_022.png",
+    "label": "seg/s0502_022.png"
+  },
+  {
+    "image": "image/s0170_031.png",
+    "label": "seg/s0170_031.png"
+  },
+  {
+    "image": "image/s0375_030.png",
+    "label": "seg/s0375_030.png"
+  },
+  {
+    "image": "image/s0153_024.png",
+    "label": "seg/s0153_024.png"
+  },
+  {
+    "image": "image/s0440_009.png",
+    "label": "seg/s0440_009.png"
+  },
+  {
+    "image": "image/s0162_018.png",
+    "label": "seg/s0162_018.png"
+  },
+  {
+    "image": "image/s1359_004.png",
+    "label": "seg/s1359_004.png"
+  },
+  {
+    "image": "image/s0058_020.png",
+    "label": "seg/s0058_020.png"
+  },
+  {
+    "image": "image/s0139_024.png",
+    "label": "seg/s0139_024.png"
+  },
+  {
+    "image": "image/s0139_016.png",
+    "label": "seg/s0139_016.png"
+  },
+  {
+    "image": "image/s0227_024.png",
+    "label": "seg/s0227_024.png"
+  },
+  {
+    "image": "image/s0561_015.png",
+    "label": "seg/s0561_015.png"
+  },
+  {
+    "image": "image/s0478_003.png",
+    "label": "seg/s0478_003.png"
+  },
+  {
+    "image": "image/s1208_008.png",
+    "label": "seg/s1208_008.png"
+  },
+  {
+    "image": "image/s0248_004.png",
+    "label": "seg/s0248_004.png"
+  },
+  {
+    "image": "image/s0685_008.png",
+    "label": "seg/s0685_008.png"
+  },
+  {
+    "image": "image/s0178_000.png",
+    "label": "seg/s0178_000.png"
+  },
+  {
+    "image": "image/s0139_005.png",
+    "label": "seg/s0139_005.png"
+  },
+  {
+    "image": "image/s0421_022.png",
+    "label": "seg/s0421_022.png"
+  },
+  {
+    "image": "image/s0446_017.png",
+    "label": "seg/s0446_017.png"
+  },
+  {
+    "image": "image/s0352_009.png",
+    "label": "seg/s0352_009.png"
+  },
+  {
+    "image": "image/s0460_025.png",
+    "label": "seg/s0460_025.png"
+  },
+  {
+    "image": "image/s0190_009.png",
+    "label": "seg/s0190_009.png"
+  },
+  {
+    "image": "image/s0377_029.png",
+    "label": "seg/s0377_029.png"
+  },
+  {
+    "image": "image/s1334_010.png",
+    "label": "seg/s1334_010.png"
+  },
+  {
+    "image": "image/s0291_027.png",
+    "label": "seg/s0291_027.png"
+  },
+  {
+    "image": "image/s0375_001.png",
+    "label": "seg/s0375_001.png"
+  },
+  {
+    "image": "image/s1371_001.png",
+    "label": "seg/s1371_001.png"
+  },
+  {
+    "image": "image/s0241_019.png",
+    "label": "seg/s0241_019.png"
+  },
+  {
+    "image": "image/s0212_021.png",
+    "label": "seg/s0212_021.png"
+  },
+  {
+    "image": "image/s0411_007.png",
+    "label": "seg/s0411_007.png"
+  },
+  {
+    "image": "image/s0421_001.png",
+    "label": "seg/s0421_001.png"
+  },
+  {
+    "image": "image/s0536_028.png",
+    "label": "seg/s0536_028.png"
+  },
+  {
+    "image": "image/s0346_002.png",
+    "label": "seg/s0346_002.png"
+  },
+  {
+    "image": "image/s0166_015.png",
+    "label": "seg/s0166_015.png"
+  },
+  {
+    "image": "image/s0685_030.png",
+    "label": "seg/s0685_030.png"
+  },
+  {
+    "image": "image/s0334_024.png",
+    "label": "seg/s0334_024.png"
+  },
+  {
+    "image": "image/s1292_023.png",
+    "label": "seg/s1292_023.png"
+  },
+  {
+    "image": "image/s0056_011.png",
+    "label": "seg/s0056_011.png"
+  },
+  {
+    "image": "image/s0774_001.png",
+    "label": "seg/s0774_001.png"
+  },
+  {
+    "image": "image/s0507_008.png",
+    "label": "seg/s0507_008.png"
+  },
+  {
+    "image": "image/s0157_007.png",
+    "label": "seg/s0157_007.png"
+  },
+  {
+    "image": "image/s0043_003.png",
+    "label": "seg/s0043_003.png"
+  },
+  {
+    "image": "image/s0370_001.png",
+    "label": "seg/s0370_001.png"
+  },
+  {
+    "image": "image/s1397_006.png",
+    "label": "seg/s1397_006.png"
+  },
+  {
+    "image": "image/s0446_011.png",
+    "label": "seg/s0446_011.png"
+  },
+  {
+    "image": "image/s0347_009.png",
+    "label": "seg/s0347_009.png"
+  },
+  {
+    "image": "image/s0574_020.png",
+    "label": "seg/s0574_020.png"
+  },
+  {
+    "image": "image/s0476_027.png",
+    "label": "seg/s0476_027.png"
+  },
+  {
+    "image": "image/s0377_006.png",
+    "label": "seg/s0377_006.png"
+  },
+  {
+    "image": "image/s0103_004.png",
+    "label": "seg/s0103_004.png"
+  },
+  {
+    "image": "image/s0137_015.png",
+    "label": "seg/s0137_015.png"
+  },
+  {
+    "image": "image/s0514_006.png",
+    "label": "seg/s0514_006.png"
+  },
+  {
+    "image": "image/s0460_011.png",
+    "label": "seg/s0460_011.png"
+  },
+  {
+    "image": "image/s0548_016.png",
+    "label": "seg/s0548_016.png"
+  },
+  {
+    "image": "image/s0057_020.png",
+    "label": "seg/s0057_020.png"
+  },
+  {
+    "image": "image/s0478_016.png",
+    "label": "seg/s0478_016.png"
+  },
+  {
+    "image": "image/s0141_018.png",
+    "label": "seg/s0141_018.png"
+  },
+  {
+    "image": "image/s0153_016.png",
+    "label": "seg/s0153_016.png"
+  },
+  {
+    "image": "image/s1378_016.png",
+    "label": "seg/s1378_016.png"
+  },
+  {
+    "image": "image/s0362_025.png",
+    "label": "seg/s0362_025.png"
+  },
+  {
+    "image": "image/s0507_024.png",
+    "label": "seg/s0507_024.png"
+  },
+  {
+    "image": "image/s0178_004.png",
+    "label": "seg/s0178_004.png"
+  },
+  {
+    "image": "image/s0858_018.png",
+    "label": "seg/s0858_018.png"
+  },
+  {
+    "image": "image/s0333_030.png",
+    "label": "seg/s0333_030.png"
+  },
+  {
+    "image": "image/s0327_029.png",
+    "label": "seg/s0327_029.png"
+  },
+  {
+    "image": "image/s0010_009.png",
+    "label": "seg/s0010_009.png"
+  },
+  {
+    "image": "image/s0067_009.png",
+    "label": "seg/s0067_009.png"
+  },
+  {
+    "image": "image/s0608_013.png",
+    "label": "seg/s0608_013.png"
+  },
+  {
+    "image": "image/s0456_031.png",
+    "label": "seg/s0456_031.png"
+  },
+  {
+    "image": "image/s0152_020.png",
+    "label": "seg/s0152_020.png"
+  },
+  {
+    "image": "image/s0697_021.png",
+    "label": "seg/s0697_021.png"
+  },
+  {
+    "image": "image/s0003_015.png",
+    "label": "seg/s0003_015.png"
+  },
+  {
+    "image": "image/s0543_008.png",
+    "label": "seg/s0543_008.png"
+  },
+  {
+    "image": "image/s0456_003.png",
+    "label": "seg/s0456_003.png"
+  },
+  {
+    "image": "image/s0307_007.png",
+    "label": "seg/s0307_007.png"
+  },
+  {
+    "image": "image/s0248_024.png",
+    "label": "seg/s0248_024.png"
+  },
+  {
+    "image": "image/s0536_001.png",
+    "label": "seg/s0536_001.png"
+  },
+  {
+    "image": "image/s0146_009.png",
+    "label": "seg/s0146_009.png"
+  },
+  {
+    "image": "image/s0124_012.png",
+    "label": "seg/s0124_012.png"
+  },
+  {
+    "image": "image/s0521_024.png",
+    "label": "seg/s0521_024.png"
+  },
+  {
+    "image": "image/s0550_024.png",
+    "label": "seg/s0550_024.png"
+  },
+  {
+    "image": "image/s0166_030.png",
+    "label": "seg/s0166_030.png"
+  },
+  {
+    "image": "image/s0595_023.png",
+    "label": "seg/s0595_023.png"
+  },
+  {
+    "image": "image/s0895_008.png",
+    "label": "seg/s0895_008.png"
+  },
+  {
+    "image": "image/s0410_002.png",
+    "label": "seg/s0410_002.png"
+  },
+  {
+    "image": "image/s0199_031.png",
+    "label": "seg/s0199_031.png"
+  },
+  {
+    "image": "image/s0707_015.png",
+    "label": "seg/s0707_015.png"
+  },
+  {
+    "image": "image/s0160_007.png",
+    "label": "seg/s0160_007.png"
+  },
+  {
+    "image": "image/s0006_005.png",
+    "label": "seg/s0006_005.png"
+  },
+  {
+    "image": "image/s0137_017.png",
+    "label": "seg/s0137_017.png"
+  },
+  {
+    "image": "image/s0675_011.png",
+    "label": "seg/s0675_011.png"
+  },
+  {
+    "image": "image/s0346_012.png",
+    "label": "seg/s0346_012.png"
+  },
+  {
+    "image": "image/s0603_007.png",
+    "label": "seg/s0603_007.png"
+  },
+  {
+    "image": "image/s0029_020.png",
+    "label": "seg/s0029_020.png"
+  },
+  {
+    "image": "image/s0627_020.png",
+    "label": "seg/s0627_020.png"
+  },
+  {
+    "image": "image/s0536_006.png",
+    "label": "seg/s0536_006.png"
+  },
+  {
+    "image": "image/s0043_027.png",
+    "label": "seg/s0043_027.png"
+  },
+  {
+    "image": "image/s0002_003.png",
+    "label": "seg/s0002_003.png"
+  },
+  {
+    "image": "image/s0377_031.png",
+    "label": "seg/s0377_031.png"
+  },
+  {
+    "image": "image/s0006_022.png",
+    "label": "seg/s0006_022.png"
+  },
+  {
+    "image": "image/s0146_001.png",
+    "label": "seg/s0146_001.png"
+  },
+  {
+    "image": "image/s0080_009.png",
+    "label": "seg/s0080_009.png"
+  },
+  {
+    "image": "image/s0174_006.png",
+    "label": "seg/s0174_006.png"
+  },
+  {
+    "image": "image/s0157_031.png",
+    "label": "seg/s0157_031.png"
+  },
+  {
+    "image": "image/s0028_031.png",
+    "label": "seg/s0028_031.png"
+  },
+  {
+    "image": "image/s0340_003.png",
+    "label": "seg/s0340_003.png"
+  },
+  {
+    "image": "image/s0460_002.png",
+    "label": "seg/s0460_002.png"
+  },
+  {
+    "image": "image/s0447_026.png",
+    "label": "seg/s0447_026.png"
+  },
+  {
+    "image": "image/s0472_014.png",
+    "label": "seg/s0472_014.png"
+  },
+  {
+    "image": "image/s0685_000.png",
+    "label": "seg/s0685_000.png"
+  },
+  {
+    "image": "image/s1359_014.png",
+    "label": "seg/s1359_014.png"
+  },
+  {
+    "image": "image/s0009_006.png",
+    "label": "seg/s0009_006.png"
+  },
+  {
+    "image": "image/s0402_025.png",
+    "label": "seg/s0402_025.png"
+  },
+  {
+    "image": "image/s0456_016.png",
+    "label": "seg/s0456_016.png"
+  },
+  {
+    "image": "image/s0476_030.png",
+    "label": "seg/s0476_030.png"
+  },
+  {
+    "image": "image/s0146_004.png",
+    "label": "seg/s0146_004.png"
+  },
+  {
+    "image": "image/s0010_026.png",
+    "label": "seg/s0010_026.png"
+  },
+  {
+    "image": "image/s1013_030.png",
+    "label": "seg/s1013_030.png"
+  },
+  {
+    "image": "image/s0521_010.png",
+    "label": "seg/s0521_010.png"
+  },
+  {
+    "image": "image/s0000_017.png",
+    "label": "seg/s0000_017.png"
+  },
+  {
+    "image": "image/s0685_012.png",
+    "label": "seg/s0685_012.png"
+  },
+  {
+    "image": "image/s0156_002.png",
+    "label": "seg/s0156_002.png"
+  },
+  {
+    "image": "image/s0143_027.png",
+    "label": "seg/s0143_027.png"
+  },
+  {
+    "image": "image/s0858_013.png",
+    "label": "seg/s0858_013.png"
+  },
+  {
+    "image": "image/s0141_021.png",
+    "label": "seg/s0141_021.png"
+  },
+  {
+    "image": "image/s0120_018.png",
+    "label": "seg/s0120_018.png"
+  },
+  {
+    "image": "image/s0440_022.png",
+    "label": "seg/s0440_022.png"
+  },
+  {
+    "image": "image/s0336_013.png",
+    "label": "seg/s0336_013.png"
+  },
+  {
+    "image": "image/s0685_001.png",
+    "label": "seg/s0685_001.png"
+  },
+  {
+    "image": "image/s0043_022.png",
+    "label": "seg/s0043_022.png"
+  },
+  {
+    "image": "image/s0340_029.png",
+    "label": "seg/s0340_029.png"
+  },
+  {
+    "image": "image/s0502_009.png",
+    "label": "seg/s0502_009.png"
+  },
+  {
+    "image": "image/s0477_025.png",
+    "label": "seg/s0477_025.png"
+  },
+  {
+    "image": "image/s0327_020.png",
+    "label": "seg/s0327_020.png"
+  },
+  {
+    "image": "image/s0460_003.png",
+    "label": "seg/s0460_003.png"
+  },
+  {
+    "image": "image/s1384_028.png",
+    "label": "seg/s1384_028.png"
+  },
+  {
+    "image": "image/s0440_017.png",
+    "label": "seg/s0440_017.png"
+  },
+  {
+    "image": "image/s1378_019.png",
+    "label": "seg/s1378_019.png"
+  },
+  {
+    "image": "image/s0389_023.png",
+    "label": "seg/s0389_023.png"
+  },
+  {
+    "image": "image/s0158_031.png",
+    "label": "seg/s0158_031.png"
+  },
+  {
+    "image": "image/s0037_017.png",
+    "label": "seg/s0037_017.png"
+  },
+  {
+    "image": "image/s0436_020.png",
+    "label": "seg/s0436_020.png"
+  },
+  {
+    "image": "image/s0001_031.png",
+    "label": "seg/s0001_031.png"
+  },
+  {
+    "image": "image/s0675_024.png",
+    "label": "seg/s0675_024.png"
+  },
+  {
+    "image": "image/s0456_007.png",
+    "label": "seg/s0456_007.png"
+  },
+  {
+    "image": "image/s0546_023.png",
+    "label": "seg/s0546_023.png"
+  },
+  {
+    "image": "image/s0487_021.png",
+    "label": "seg/s0487_021.png"
+  },
+  {
+    "image": "image/s0603_018.png",
+    "label": "seg/s0603_018.png"
+  },
+  {
+    "image": "image/s0289_000.png",
+    "label": "seg/s0289_000.png"
+  },
+  {
+    "image": "image/s1397_000.png",
+    "label": "seg/s1397_000.png"
+  },
+  {
+    "image": "image/s0199_019.png",
+    "label": "seg/s0199_019.png"
+  },
+  {
+    "image": "image/s0436_011.png",
+    "label": "seg/s0436_011.png"
+  },
+  {
+    "image": "image/s0190_023.png",
+    "label": "seg/s0190_023.png"
+  },
+  {
+    "image": "image/s0089_014.png",
+    "label": "seg/s0089_014.png"
+  },
+  {
+    "image": "image/s0468_018.png",
+    "label": "seg/s0468_018.png"
+  },
+  {
+    "image": "image/s0153_006.png",
+    "label": "seg/s0153_006.png"
+  },
+  {
+    "image": "image/s0383_020.png",
+    "label": "seg/s0383_020.png"
+  },
+  {
+    "image": "image/s0059_017.png",
+    "label": "seg/s0059_017.png"
+  },
+  {
+    "image": "image/s0460_018.png",
+    "label": "seg/s0460_018.png"
+  },
+  {
+    "image": "image/s0487_022.png",
+    "label": "seg/s0487_022.png"
+  },
+  {
+    "image": "image/s0079_016.png",
+    "label": "seg/s0079_016.png"
+  },
+  {
+    "image": "image/s1384_020.png",
+    "label": "seg/s1384_020.png"
+  },
+  {
+    "image": "image/s1359_007.png",
+    "label": "seg/s1359_007.png"
+  },
+  {
+    "image": "image/s0500_006.png",
+    "label": "seg/s0500_006.png"
+  },
+  {
+    "image": "image/s0024_018.png",
+    "label": "seg/s0024_018.png"
+  },
+  {
+    "image": "image/s1369_028.png",
+    "label": "seg/s1369_028.png"
+  },
+  {
+    "image": "image/s0371_015.png",
+    "label": "seg/s0371_015.png"
+  },
+  {
+    "image": "image/s0501_003.png",
+    "label": "seg/s0501_003.png"
+  },
+  {
+    "image": "image/s0167_002.png",
+    "label": "seg/s0167_002.png"
+  },
+  {
+    "image": "image/s1344_024.png",
+    "label": "seg/s1344_024.png"
+  },
+  {
+    "image": "image/s0132_024.png",
+    "label": "seg/s0132_024.png"
+  },
+  {
+    "image": "image/s1077_029.png",
+    "label": "seg/s1077_029.png"
+  },
+  {
+    "image": "image/s0079_023.png",
+    "label": "seg/s0079_023.png"
+  },
+  {
+    "image": "image/s0139_013.png",
+    "label": "seg/s0139_013.png"
+  },
+  {
+    "image": "image/s0895_028.png",
+    "label": "seg/s0895_028.png"
+  },
+  {
+    "image": "image/s0175_028.png",
+    "label": "seg/s0175_028.png"
+  },
+  {
+    "image": "image/s0474_017.png",
+    "label": "seg/s0474_017.png"
+  },
+  {
+    "image": "image/s0410_004.png",
+    "label": "seg/s0410_004.png"
+  },
+  {
+    "image": "image/s0858_007.png",
+    "label": "seg/s0858_007.png"
+  },
+  {
+    "image": "image/s0160_029.png",
+    "label": "seg/s0160_029.png"
+  },
+  {
+    "image": "image/s0260_007.png",
+    "label": "seg/s0260_007.png"
+  },
+  {
+    "image": "image/s0123_020.png",
+    "label": "seg/s0123_020.png"
+  },
+  {
+    "image": "image/s0006_020.png",
+    "label": "seg/s0006_020.png"
+  },
+  {
+    "image": "image/s0669_012.png",
+    "label": "seg/s0669_012.png"
+  },
+  {
+    "image": "image/s0408_026.png",
+    "label": "seg/s0408_026.png"
+  },
+  {
+    "image": "image/s0487_019.png",
+    "label": "seg/s0487_019.png"
+  },
+  {
+    "image": "image/s0006_018.png",
+    "label": "seg/s0006_018.png"
+  },
+  {
+    "image": "image/s0307_025.png",
+    "label": "seg/s0307_025.png"
+  },
+  {
+    "image": "image/s0000_004.png",
+    "label": "seg/s0000_004.png"
+  },
+  {
+    "image": "image/s0160_024.png",
+    "label": "seg/s0160_024.png"
+  },
+  {
+    "image": "image/s0153_023.png",
+    "label": "seg/s0153_023.png"
+  },
+  {
+    "image": "image/s0040_022.png",
+    "label": "seg/s0040_022.png"
+  },
+  {
+    "image": "image/s0170_021.png",
+    "label": "seg/s0170_021.png"
+  },
+  {
+    "image": "image/s0143_015.png",
+    "label": "seg/s0143_015.png"
+  },
+  {
+    "image": "image/s1226_029.png",
+    "label": "seg/s1226_029.png"
+  },
+  {
+    "image": "image/s0006_008.png",
+    "label": "seg/s0006_008.png"
+  },
+  {
+    "image": "image/s0175_010.png",
+    "label": "seg/s0175_010.png"
+  },
+  {
+    "image": "image/s0061_021.png",
+    "label": "seg/s0061_021.png"
+  },
+  {
+    "image": "image/s0058_023.png",
+    "label": "seg/s0058_023.png"
+  },
+  {
+    "image": "image/s0483_008.png",
+    "label": "seg/s0483_008.png"
+  },
+  {
+    "image": "image/s0161_017.png",
+    "label": "seg/s0161_017.png"
+  },
+  {
+    "image": "image/s0056_012.png",
+    "label": "seg/s0056_012.png"
+  },
+  {
+    "image": "image/s0376_018.png",
+    "label": "seg/s0376_018.png"
+  },
+  {
+    "image": "image/s0440_028.png",
+    "label": "seg/s0440_028.png"
+  },
+  {
+    "image": "image/s0736_028.png",
+    "label": "seg/s0736_028.png"
+  },
+  {
+    "image": "image/s0059_015.png",
+    "label": "seg/s0059_015.png"
+  },
+  {
+    "image": "image/s0707_007.png",
+    "label": "seg/s0707_007.png"
+  },
+  {
+    "image": "image/s0162_004.png",
+    "label": "seg/s0162_004.png"
+  },
+  {
+    "image": "image/s1388_018.png",
+    "label": "seg/s1388_018.png"
+  },
+  {
+    "image": "image/s0241_008.png",
+    "label": "seg/s0241_008.png"
+  },
+  {
+    "image": "image/s0003_023.png",
+    "label": "seg/s0003_023.png"
+  },
+  {
+    "image": "image/s0133_006.png",
+    "label": "seg/s0133_006.png"
+  },
+  {
+    "image": "image/s0061_030.png",
+    "label": "seg/s0061_030.png"
+  },
+  {
+    "image": "image/s0497_031.png",
+    "label": "seg/s0497_031.png"
+  },
+  {
+    "image": "image/s0516_031.png",
+    "label": "seg/s0516_031.png"
+  },
+  {
+    "image": "image/s0461_015.png",
+    "label": "seg/s0461_015.png"
+  },
+  {
+    "image": "image/s0291_000.png",
+    "label": "seg/s0291_000.png"
+  },
+  {
+    "image": "image/s0685_022.png",
+    "label": "seg/s0685_022.png"
+  },
+  {
+    "image": "image/s0150_024.png",
+    "label": "seg/s0150_024.png"
+  },
+  {
+    "image": "image/s0291_006.png",
+    "label": "seg/s0291_006.png"
+  },
+  {
+    "image": "image/s0595_013.png",
+    "label": "seg/s0595_013.png"
+  },
+  {
+    "image": "image/s0103_002.png",
+    "label": "seg/s0103_002.png"
+  },
+  {
+    "image": "image/s0377_009.png",
+    "label": "seg/s0377_009.png"
+  },
+  {
+    "image": "image/s0367_012.png",
+    "label": "seg/s0367_012.png"
+  },
+  {
+    "image": "image/s0371_002.png",
+    "label": "seg/s0371_002.png"
+  },
+  {
+    "image": "image/s0321_002.png",
+    "label": "seg/s0321_002.png"
+  },
+  {
+    "image": "image/s0571_004.png",
+    "label": "seg/s0571_004.png"
+  },
+  {
+    "image": "image/s1371_016.png",
+    "label": "seg/s1371_016.png"
+  },
+  {
+    "image": "image/s0447_011.png",
+    "label": "seg/s0447_011.png"
+  },
+  {
+    "image": "image/s0361_014.png",
+    "label": "seg/s0361_014.png"
+  },
+  {
+    "image": "image/s0402_000.png",
+    "label": "seg/s0402_000.png"
+  },
+  {
+    "image": "image/s0044_027.png",
+    "label": "seg/s0044_027.png"
+  },
+  {
+    "image": "image/s0260_006.png",
+    "label": "seg/s0260_006.png"
+  },
+  {
+    "image": "image/s1292_009.png",
+    "label": "seg/s1292_009.png"
+  },
+  {
+    "image": "image/s0550_014.png",
+    "label": "seg/s0550_014.png"
+  },
+  {
+    "image": "image/s1142_021.png",
+    "label": "seg/s1142_021.png"
+  },
+  {
+    "image": "image/s0024_007.png",
+    "label": "seg/s0024_007.png"
+  },
+  {
+    "image": "image/s0751_017.png",
+    "label": "seg/s0751_017.png"
+  },
+  {
+    "image": "image/s0431_013.png",
+    "label": "seg/s0431_013.png"
+  },
+  {
+    "image": "image/s1359_008.png",
+    "label": "seg/s1359_008.png"
+  },
+  {
+    "image": "image/s0361_016.png",
+    "label": "seg/s0361_016.png"
+  },
+  {
+    "image": "image/s0446_023.png",
+    "label": "seg/s0446_023.png"
+  },
+  {
+    "image": "image/s0498_008.png",
+    "label": "seg/s0498_008.png"
+  },
+  {
+    "image": "image/s0079_020.png",
+    "label": "seg/s0079_020.png"
+  },
+  {
+    "image": "image/s0037_015.png",
+    "label": "seg/s0037_015.png"
+  },
+  {
+    "image": "image/s0260_009.png",
+    "label": "seg/s0260_009.png"
+  },
+  {
+    "image": "image/s0697_002.png",
+    "label": "seg/s0697_002.png"
+  },
+  {
+    "image": "image/s1026_011.png",
+    "label": "seg/s1026_011.png"
+  },
+  {
+    "image": "image/s0003_016.png",
+    "label": "seg/s0003_016.png"
+  },
+  {
+    "image": "image/s0692_012.png",
+    "label": "seg/s0692_012.png"
+  },
+  {
+    "image": "image/s0740_004.png",
+    "label": "seg/s0740_004.png"
+  },
+  {
+    "image": "image/s0006_016.png",
+    "label": "seg/s0006_016.png"
+  },
+  {
+    "image": "image/s0165_007.png",
+    "label": "seg/s0165_007.png"
+  },
+  {
+    "image": "image/s0128_000.png",
+    "label": "seg/s0128_000.png"
+  },
+  {
+    "image": "image/s0034_022.png",
+    "label": "seg/s0034_022.png"
+  },
+  {
+    "image": "image/s0334_022.png",
+    "label": "seg/s0334_022.png"
+  },
+  {
+    "image": "image/s0291_021.png",
+    "label": "seg/s0291_021.png"
+  },
+  {
+    "image": "image/s0548_004.png",
+    "label": "seg/s0548_004.png"
+  },
+  {
+    "image": "image/s0383_004.png",
+    "label": "seg/s0383_004.png"
+  },
+  {
+    "image": "image/s0352_023.png",
+    "label": "seg/s0352_023.png"
+  },
+  {
+    "image": "image/s0139_008.png",
+    "label": "seg/s0139_008.png"
+  },
+  {
+    "image": "image/s0163_006.png",
+    "label": "seg/s0163_006.png"
+  },
+  {
+    "image": "image/s0791_030.png",
+    "label": "seg/s0791_030.png"
+  },
+  {
+    "image": "image/s0519_017.png",
+    "label": "seg/s0519_017.png"
+  },
+  {
+    "image": "image/s0182_017.png",
+    "label": "seg/s0182_017.png"
+  },
+  {
+    "image": "image/s0102_003.png",
+    "label": "seg/s0102_003.png"
+  },
+  {
+    "image": "image/s1142_009.png",
+    "label": "seg/s1142_009.png"
+  },
+  {
+    "image": "image/s0163_017.png",
+    "label": "seg/s0163_017.png"
+  },
+  {
+    "image": "image/s0388_008.png",
+    "label": "seg/s0388_008.png"
+  },
+  {
+    "image": "image/s0429_015.png",
+    "label": "seg/s0429_015.png"
+  },
+  {
+    "image": "image/s0476_005.png",
+    "label": "seg/s0476_005.png"
+  },
+  {
+    "image": "image/s0061_015.png",
+    "label": "seg/s0061_015.png"
+  },
+  {
+    "image": "image/s0393_007.png",
+    "label": "seg/s0393_007.png"
+  },
+  {
+    "image": "image/s0478_028.png",
+    "label": "seg/s0478_028.png"
+  },
+  {
+    "image": "image/s0334_000.png",
+    "label": "seg/s0334_000.png"
+  },
+  {
+    "image": "image/s0152_002.png",
+    "label": "seg/s0152_002.png"
+  },
+  {
+    "image": "image/s0440_023.png",
+    "label": "seg/s0440_023.png"
+  },
+  {
+    "image": "image/s1062_009.png",
+    "label": "seg/s1062_009.png"
+  },
+  {
+    "image": "image/s0460_015.png",
+    "label": "seg/s0460_015.png"
+  },
+  {
+    "image": "image/s0411_027.png",
+    "label": "seg/s0411_027.png"
+  },
+  {
+    "image": "image/s0477_013.png",
+    "label": "seg/s0477_013.png"
+  },
+  {
+    "image": "image/s0510_002.png",
+    "label": "seg/s0510_002.png"
+  },
+  {
+    "image": "image/s0139_015.png",
+    "label": "seg/s0139_015.png"
+  },
+  {
+    "image": "image/s0408_029.png",
+    "label": "seg/s0408_029.png"
+  },
+  {
+    "image": "image/s0783_031.png",
+    "label": "seg/s0783_031.png"
+  },
+  {
+    "image": "image/s1388_024.png",
+    "label": "seg/s1388_024.png"
+  },
+  {
+    "image": "image/s0561_016.png",
+    "label": "seg/s0561_016.png"
+  },
+  {
+    "image": "image/s0423_014.png",
+    "label": "seg/s0423_014.png"
+  },
+  {
+    "image": "image/s0420_015.png",
+    "label": "seg/s0420_015.png"
+  },
+  {
+    "image": "image/s0103_029.png",
+    "label": "seg/s0103_029.png"
+  },
+  {
+    "image": "image/s0167_017.png",
+    "label": "seg/s0167_017.png"
+  },
+  {
+    "image": "image/s0791_019.png",
+    "label": "seg/s0791_019.png"
+  },
+  {
+    "image": "image/s0571_025.png",
+    "label": "seg/s0571_025.png"
+  },
+  {
+    "image": "image/s0408_021.png",
+    "label": "seg/s0408_021.png"
+  },
+  {
+    "image": "image/s0510_016.png",
+    "label": "seg/s0510_016.png"
+  },
+  {
+    "image": "image/s1334_017.png",
+    "label": "seg/s1334_017.png"
+  },
+  {
+    "image": "image/s0388_003.png",
+    "label": "seg/s0388_003.png"
+  },
+  {
+    "image": "image/s0307_006.png",
+    "label": "seg/s0307_006.png"
+  },
+  {
+    "image": "image/s0171_012.png",
+    "label": "seg/s0171_012.png"
+  },
+  {
+    "image": "image/s0170_017.png",
+    "label": "seg/s0170_017.png"
+  },
+  {
+    "image": "image/s0420_017.png",
+    "label": "seg/s0420_017.png"
+  },
+  {
+    "image": "image/s0124_006.png",
+    "label": "seg/s0124_006.png"
+  },
+  {
+    "image": "image/s0046_020.png",
+    "label": "seg/s0046_020.png"
+  },
+  {
+    "image": "image/s0895_016.png",
+    "label": "seg/s0895_016.png"
+  },
+  {
+    "image": "image/s0059_005.png",
+    "label": "seg/s0059_005.png"
+  },
+  {
+    "image": "image/s0410_013.png",
+    "label": "seg/s0410_013.png"
+  },
+  {
+    "image": "image/s0587_021.png",
+    "label": "seg/s0587_021.png"
+  },
+  {
+    "image": "image/s0307_010.png",
+    "label": "seg/s0307_010.png"
+  },
+  {
+    "image": "image/s0080_011.png",
+    "label": "seg/s0080_011.png"
+  },
+  {
+    "image": "image/s0067_007.png",
+    "label": "seg/s0067_007.png"
+  },
+  {
+    "image": "image/s0250_029.png",
+    "label": "seg/s0250_029.png"
+  },
+  {
+    "image": "image/s1399_002.png",
+    "label": "seg/s1399_002.png"
+  },
+  {
+    "image": "image/s1077_020.png",
+    "label": "seg/s1077_020.png"
+  },
+  {
+    "image": "image/s0151_021.png",
+    "label": "seg/s0151_021.png"
+  },
+  {
+    "image": "image/s0124_023.png",
+    "label": "seg/s0124_023.png"
+  },
+  {
+    "image": "image/s1334_003.png",
+    "label": "seg/s1334_003.png"
+  },
+  {
+    "image": "image/s0484_005.png",
+    "label": "seg/s0484_005.png"
+  },
+  {
+    "image": "image/s0478_022.png",
+    "label": "seg/s0478_022.png"
+  },
+  {
+    "image": "image/s0241_015.png",
+    "label": "seg/s0241_015.png"
+  },
+  {
+    "image": "image/s0370_005.png",
+    "label": "seg/s0370_005.png"
+  },
+  {
+    "image": "image/s0292_022.png",
+    "label": "seg/s0292_022.png"
+  },
+  {
+    "image": "image/s0080_002.png",
+    "label": "seg/s0080_002.png"
+  },
+  {
+    "image": "image/s0837_009.png",
+    "label": "seg/s0837_009.png"
+  },
+  {
+    "image": "image/s0514_026.png",
+    "label": "seg/s0514_026.png"
+  },
+  {
+    "image": "image/s0001_018.png",
+    "label": "seg/s0001_018.png"
+  },
+  {
+    "image": "image/s0536_027.png",
+    "label": "seg/s0536_027.png"
+  },
+  {
+    "image": "image/s0010_007.png",
+    "label": "seg/s0010_007.png"
+  },
+  {
+    "image": "image/s0429_004.png",
+    "label": "seg/s0429_004.png"
+  },
+  {
+    "image": "image/s0736_006.png",
+    "label": "seg/s0736_006.png"
+  },
+  {
+    "image": "image/s0498_016.png",
+    "label": "seg/s0498_016.png"
+  },
+  {
+    "image": "image/s0120_006.png",
+    "label": "seg/s0120_006.png"
+  },
+  {
+    "image": "image/s0551_018.png",
+    "label": "seg/s0551_018.png"
+  },
+  {
+    "image": "image/s0171_021.png",
+    "label": "seg/s0171_021.png"
+  },
+  {
+    "image": "image/s0858_011.png",
+    "label": "seg/s0858_011.png"
+  },
+  {
+    "image": "image/s1292_031.png",
+    "label": "seg/s1292_031.png"
+  },
+  {
+    "image": "image/s0058_014.png",
+    "label": "seg/s0058_014.png"
+  },
+  {
+    "image": "image/s0187_015.png",
+    "label": "seg/s0187_015.png"
+  },
+  {
+    "image": "image/s0165_025.png",
+    "label": "seg/s0165_025.png"
+  },
+  {
+    "image": "image/s0334_021.png",
+    "label": "seg/s0334_021.png"
+  },
+  {
+    "image": "image/s0171_014.png",
+    "label": "seg/s0171_014.png"
+  }
+]

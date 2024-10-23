@@ -1,0 +1,5 @@
+defaults:
+  - base_m3d_2d
+  - _self_
+data_dir: "/workspace/segment-caption-anything/data/demo_cases"
+with_image: True
